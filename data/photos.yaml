@@ -1,0 +1,10 @@
+vajska-illustration:
+  src: img/placeholder-vajska.jpg
+  author: vajska.rs
+  license: ilustracija / illustration
+  temp: true
+  alt: 'Illustration: a village church on the Bačka plain by the Danube, wheat fields and a swan'
+  alt_sr: 'Ilustracija: seoska crkva u bačkoj ravnici uz Dunav, polja pšenice i labud'
+  alt_cyr: "Илустрација: сеоска црква у бачкој равници уз Дунав, поља пшенице и лабуд"
+  alt_hr: 'Ilustracija: seoska crkva u bačkoj ravnici uz Dunav, polja pšenice i labud'
+  alt_ru: 'Иллюстрация: сельская церковь на бачкой равнине у Дуная, пшеничные поля и лебедь'

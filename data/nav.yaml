@@ -1,0 +1,53 @@
+menu:
+- id: explore
+  label: nav_g_explore
+  hub: explore
+  items:
+  - path: village
+  - path: nearby
+  - path: events
+  - path: kitchen
+- id: info
+  label: nav_g_info
+  hub: useful
+  items:
+  - path: useful
+  - path: useful
+    anchor: transport
+    label: how_to_get
+  - path: useful
+    anchor: weather
+    label: weather_title
+  - path: map
+    notile: true
+more:
+  id: site
+  label: nav_g_site
+  items:
+  - path: about
+  - path: author
+direct:
+- path: news
+- path: map
+categories:
+  nature:
+    label: cat_nature
+    color: '#3f7a3a'
+  heritage:
+    label: cat_heritage
+    color: '#7b3f63'
+  stay:
+    label: cat_stay
+    color: '#2f5f8a'
+  food:
+    label: cat_food
+    color: '#b35a1f'
+  shops:
+    label: cat_shops
+    color: '#56616b'
+  services:
+    label: cat_services
+    color: '#b3261e'
+  nearby:
+    label: cat_nearby
+    color: '#5c4a8a'

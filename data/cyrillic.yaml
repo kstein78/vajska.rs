@@ -1,0 +1,23 @@
+keep_words:
+- Vajszka
+- Józsefháza
+- Wajska
+- Palona
+- Plawingen
+- Tothwayzka
+- Tót
+- LiveLib
+- LitRes
+- BLITZ
+- ZKVH
+- IM
+- Media
+keep_phrases:
+- Vojvodina Travel
+- BLITZ.plus
+- IM Media
+- vajska.rs
+- provala.rs
+- rakovac.rs
+overrides:
+  Stein: Штајн

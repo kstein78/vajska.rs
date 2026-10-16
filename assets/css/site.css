@@ -1,0 +1,22 @@
+/* vajska.rs colours on top of the engine stylesheet (themes/selo/assets/css/main.css).
+   Palette: deep crimson of St George (the village church), wheat gold of the Bačka fields, Danube blue for links. */
+:root {
+  --bg: #f6f1e7; --surface: #fdfaf4; --surface-2: #ece3d3; --ink: #221a16; --muted: #6b5f55; --line: #ddd1bf;
+  --forest: #5e1d22; --forest-ink: #f7efe0; --forest-muted: #e1c9b4;
+  --accent: #1d5c87; --accent-soft: #e2edf5; --moss: #8a6d1f;
+  --placeholder: url("../img/pattern.svg") center / 220px repeat, #ece3d3;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15100e; --surface: #1d1714; --surface-2: #2a211c; --ink: #efe6db; --muted: #b3a597; --line: #3a2f28;
+    --forest: #2a0d10; --forest-ink: #efe6db; --forest-muted: #c7ab98;
+    --accent: #8cc2e8; --accent-soft: #1d2c38; --moss: #d8b65a;
+    --placeholder: url("../img/pattern-dark.svg") center / 220px repeat, #2a211c;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15100e; --surface: #1d1714; --surface-2: #2a211c; --ink: #efe6db; --muted: #b3a597; --line: #3a2f28;
+  --forest: #2a0d10; --forest-ink: #efe6db; --forest-muted: #c7ab98;
+  --accent: #8cc2e8; --accent-soft: #1d2c38; --moss: #d8b65a;
+  --placeholder: url("../img/pattern-dark.svg") center / 220px repeat, #2a211c;
+}

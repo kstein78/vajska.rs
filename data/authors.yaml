@@ -1,0 +1,20 @@
+svetlana:
+  name: Svetlana Morozova
+  name_ru: Светлана Морозова
+  name_cyr: Светлана Морозова
+  page: author
+  job_en: Editor
+  job_sr: Urednica
+  job_cyr: Уредница
+  job_ru: Редактор
+kosta:
+  name: Konstantin Stein
+  name_ru: Константин Штейн
+  name_cyr: Константин Штајн
+  job_en: Co-founder and developer
+  job_sr: Suosnivač i developer
+  job_cyr: Суоснивач и девелопер
+  job_ru: Сооснователь и разработчик
+  same_as:
+  - https://rakovac.rs/en/author/
+  - https://stein-1.com
