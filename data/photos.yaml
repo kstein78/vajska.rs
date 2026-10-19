@@ -166,3 +166,207 @@ provala-blue-reflection:
   alt_cyr: "Ведар летњи дан на Провали: крошња дрвета и плаво небо огледају се у мирној води"
   alt_hr: 'Vedar ljetni dan na Provali: krošnja stabla i plavo nebo ogledaju se u mirnoj vodi'
   alt_ru: 'Ясный летний день на Провале: круглая крона и синее небо отражаются в спокойной воде'
+sombor-zupanija:
+  src: img/sombor-zupanija.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: The former Bács-Bodrog County Hall (Županija) in Sombor with flags and a round flowerbed in front
+  alt_sr: Zgrada bivše Županije u Somboru sa zastavama i okruglom lejom cveća ispred
+  alt_cyr: "Зграда бивше Жупаније у Сомбору са заставама и округлом лејом цвећа испред"
+  alt_hr: Zgrada bivše Županije u Somboru sa zastavama i okruglom gredicom cvijeća ispred
+  alt_ru: Здание бывшей Жупании (комитата Бач-Бодрог) в Сомборе с флагами и круглой клумбой перед входом
+sombor-city-hall:
+  src: img/sombor-city-hall.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: 'Sombor City Hall on Holy Trinity Square: a neoclassical portico, a clock tower and the date MDCCCXLII'
+  alt_sr: 'Gradska kuća u Somboru na Trgu Svetog Trojstva: neoklasicistički portik, toranj sa satom i godina MDCCCXLII'
+  alt_cyr: "Градска кућа у Сомбору на Тргу Светог Тројства: неокласицистички портик, торањ са сатом и година MDCCCXLII"
+  alt_hr: 'Gradska kuća u Somboru na Trgu Svetog Trojstva: neoklasicistički portik, toranj sa satom i godina MDCCCXLII'
+  alt_ru: 'Городская ратуша Сомбора на площади Святой Троицы: классицистский портик, башня с часами и дата MDCCCXLII'
+sombor-st-george:
+  src: img/sombor-st-george.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: The Serbian Orthodox Church of St George in Sombor, white with a green spire, a weeping willow in front
+  alt_sr: Srpska pravoslavna crkva Svetog Đorđa u Somboru, bela sa zelenim tornjem, ispred nje žalosna vrba
+  alt_cyr: "Српска православна црква Светог Ђорђа у Сомбору, бела са зеленим торњем, испред ње жалосна врба"
+  alt_hr: Srpska pravoslavna crkva Svetog Đorđa u Somboru, bijela sa zelenim tornjem, ispred nje žalosna vrba
+  alt_ru: Сербская православная церковь Святого Георгия в Сомборе, белая с зелёным шпилем, перед ней плакучая ива
+sombor-reading-room:
+  src: img/sombor-reading-room.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A green eclectic palace next to the Serbian Reading Room (its sign ЧИТАОНИЦА on the left) in the centre of Sombor
+  alt_sr: Zelena eklektička palata pored Srpske čitaonice (natpis ЧИТАОНИЦА levo) u centru Sombora
+  alt_cyr: "Зелена еклектичка палата поред Српске читаонице (натпис ЧИТАОНИЦА лево) у центру Сомбора"
+  alt_hr: Zelena eklektička palača pokraj Srpske čitaonice (natpis ЧИТАОНИЦА lijevo) u središtu Sombora
+  alt_ru: Зелёный эклектичный дом рядом с Сербской читальней (слева надпись ЧИТАОНИЦА) в центре Сомбора
+sombor-pedestrian-street:
+  src: img/sombor-pedestrian-street.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: 'The pedestrian zone of Sombor: old façades, street lamps, a cyclist and a church tower at the end of the street'
+  alt_sr: 'Pešačka zona Sombora: stare fasade, fenjeri, biciklista i crkveni toranj na kraju ulice'
+  alt_cyr: "Пешачка зона Сомбора: старе фасаде, фењери, бициклиста и црквени торањ на крају улице"
+  alt_hr: 'Pješačka zona Sombora: stare fasade, svjetiljke, biciklist i crkveni toranj na kraju ulice'
+  alt_ru: 'Пешеходная зона Сомбора: старые фасады, фонари, велосипедист и церковная башня в конце улицы'
+sombor-fountain:
+  src: img/sombor-fountain.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A round fountain in the pedestrian zone of Sombor on a sunny day
+  alt_sr: Okrugla fontana u pešačkoj zoni Sombora sunčanog dana
+  alt_cyr: "Округла фонтана у пешачкој зони Сомбора сунчаног дана"
+  alt_hr: Okrugla fontana u pješačkoj zoni Sombora sunčanog dana
+  alt_ru: Круглый фонтан в пешеходной зоне Сомбора в солнечный день
+sombor-pink-palace:
+  src: img/sombor-pink-palace.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A pink eclectic building with arched shop windows, stucco ornaments and a small dome in central Sombor
+  alt_sr: Ružičasta eklektička zgrada sa lučnim izlozima, štukaturom i malom kupolom u centru Sombora
+  alt_cyr: "Ружичаста еклектичка зграда са лучним излозима, штукатуром и малом куполом у центру Сомбора"
+  alt_hr: Ružičasta eklektička zgrada s lučnim izlozima, štukaturom i malom kupolom u središtu Sombora
+  alt_ru: Розовый эклектичный дом с арочными витринами, лепниной и маленьким куполом в центре Сомбора
+sombor-visinka:
+  src: img/sombor-visinka.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: 'The Višinka art studio and gallery in Sombor: white awnings, artificial grass and a relief of a painter in a hat'
+  alt_sr: 'Atelje i galerija „Višinka” u Somboru: bele tende, veštačka trava i reljef slikara sa šeširom'
+  alt_cyr: "Атеље и галерија „Вишинка” у Сомбору: беле тенде, вештачка трава и рељеф сликара са шеширом"
+  alt_hr: 'Atelijer i galerija „Višinka” u Somboru: bijele tende, umjetna trava i reljef slikara sa šeširom'
+  alt_ru: 'Мастерская и галерея «Вишинка» в Сомборе: белые маркизы, искусственная трава и рельеф художника в шляпе'
+sombor-dalmatinski-podrum:
+  src: img/sombor-dalmatinski-podrum.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: 'The terrace of the Dalmatinski podrum tavern in Sombor: blue chairs, checked tablecloths, oars and plates on the wall'
+  alt_sr: 'Bašta kafane „Dalmatinski podrum” u Somboru: plave stolice, karirani stolnjaci, vesla i tanjiri na zidu'
+  alt_cyr: "Башта кафане „Далматински подрум” у Сомбору: плаве столице, карирани столњаци, весла и тањири на зиду"
+  alt_hr: 'Terasa konobe „Dalmatinski podrum” u Somboru: plave stolice, kockasti stolnjaci, vesla i tanjuri na zidu'
+  alt_ru: 'Терраса таверны «Далматинский погреб» в Сомборе: синие стулья, клетчатые скатерти, вёсла и тарелки на стене'
+sombor-rose-door:
+  src: img/sombor-rose-door.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: Two arched doors of a boutique in Sombor framed by red and pink roses, a shield with a lion between them
+  alt_sr: Dvoja lučna vrata butika u Somboru uokvirena crvenim i ružičastim ružama, između njih štit sa lavom
+  alt_cyr: "Двоја лучна врата бутика у Сомбору уоквирена црвеним и ружичастим ружама, између њих штит са лавом"
+  alt_hr: Dvoja lučna vrata butika u Somboru uokvirena crvenim i ružičastim ružama, između njih štit s lavom
+  alt_ru: Две арочные двери бутика в Сомборе в обрамлении красных и розовых роз, между ними щит со львом
+sombor-pink-corner:
+  src: img/sombor-pink-corner.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A pink corner house with a tower-like roof and a kiosk in Sombor
+  alt_sr: Ružičasta ugaona kuća sa krovom u obliku kule i kioskom u Somboru
+  alt_cyr: "Ружичаста угаона кућа са кровом у облику куле и киоском у Сомбору"
+  alt_hr: Ružičasta kutna kuća s krovom u obliku kule i kioskom u Somboru
+  alt_ru: Розовый угловой дом с крышей-башенкой и киоском в Сомборе
+sombor-yellow-street:
+  src: img/sombor-yellow-street.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A long yellow building with roof turrets on a quiet street in Sombor, a church tower in the distance
+  alt_sr: Duga žuta zgrada sa kulicama na krovu u mirnoj ulici Sombora, crkveni toranj u daljini
+  alt_cyr: "Дуга жута зграда са кулицама на крову у мирној улици Сомбора, црквени торањ у даљини"
+  alt_hr: Duga žuta zgrada s kulicama na krovu u mirnoj ulici Sombora, crkveni toranj u daljini
+  alt_ru: Длинное жёлтое здание с башенками на крыше на тихой улице Сомбора, вдали церковная башня
+sombor-carmelite-church:
+  src: img/sombor-carmelite-church.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: The twin-towered Carmelite Church of St Stephen the King in Sombor
+  alt_sr: Karmelićanska crkva Svetog Stefana Kralja u Somboru sa dva tornja
+  alt_cyr: "Кармелићанска црква Светог Стефана Краља у Сомбору са два торња"
+  alt_hr: Karmelićanska crkva Svetog Stjepana Kralja u Somboru s dva tornja
+  alt_ru: Двухбашенная церковь кармелитов Святого Стефана Короля в Сомборе
+sombor-carmelite-facade:
+  src: img/sombor-carmelite-facade.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: 'The façade of the Carmelite church in Sombor seen from the steps: two clock towers and a rose window'
+  alt_sr: 'Fasada Karmelićanske crkve u Somboru gledano sa stepenica: dva tornja sa satovima i rozeta'
+  alt_cyr: "Фасада Кармелићанске цркве у Сомбору гледано са степеница: два торња са сатовима и розета"
+  alt_hr: 'Pročelje Karmelićanske crkve u Somboru gledano sa stuba: dva tornja sa satovima i rozeta'
+  alt_ru: 'Фасад кармелитской церкви в Сомборе со ступеней: две башни с часами и розетка'
+sombor-carmelite-monastery:
+  src: img/sombor-carmelite-monastery.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: The long Carmelite monastery building in Sombor under acacia trees, a church tower behind
+  alt_sr: Duga zgrada karmelićanskog samostana u Somboru pod bagremovima, iza nje crkveni toranj
+  alt_cyr: "Дуга зграда кармелићанског самостана у Сомбору под багремовима, иза ње црквени торањ"
+  alt_hr: Duga zgrada karmelićanskog samostana u Somboru pod bagremima, iza nje crkveni toranj
+  alt_ru: Длинное здание кармелитского монастыря в Сомборе под акациями, за ним церковная башня
+sombor-park-heroja:
+  src: img/sombor-park-heroja.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: A memorial statue in Park heroja in Sombor, the twin towers of the Carmelite church behind the trees
+  alt_sr: Spomenik u Parku heroja u Somboru, iza drveća dva tornja Karmelićanske crkve
+  alt_cyr: "Споменик у Парку хероја у Сомбору, иза дрвећа два торња Кармелићанске цркве"
+  alt_hr: Spomenik u Parku heroja u Somboru, iza drveća dva tornja Karmelićanske crkve
+  alt_ru: Памятник в Парке героев в Сомборе, за деревьями две башни кармелитской церкви
+sombor-evangelical-church:
+  src: img/sombor-evangelical-church.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: The orange Evangelical church in Sombor, the year 1901 on the gable above the door
+  alt_sr: Narandžasta Evangelistička crkva u Somboru, godina 1901 na zabatu iznad vrata
+  alt_cyr: "Наранџаста Евангелистичка црква у Сомбору, година 1901 на забату изнад врата"
+  alt_hr: Narančasta Evangelička crkva u Somboru, godina 1901. na zabatu iznad vrata
+  alt_ru: Оранжевая евангелическая церковь в Сомборе, над входом на фронтоне год 1901
