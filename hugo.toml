@@ -101,6 +101,12 @@ disableLanguages = ["de", "hu"]
 > co-founded and built by Konstantin (Kosta) Stein (rakovac.rs). Sister site about Lake Provala: https://provala.rs/"""
   photoCredit = "credited under each photo"
   alternateNames = ["Vajska", "Вајска", "Vajszka", "vajska.rs"]
+  # Useful info page: weather on; air quality and the Danube gauge are rakovac.rs's (Beočin, Novi Sad)
+  # and stay off until this site has its own sources (a SEPA station / an RHMZ gauge near Bač).
+  [params.useful]
+    weather = true
+    air = false
+    danube = false
   [params.place]
     type = "TouristDestination"
     name = "Vajska"
