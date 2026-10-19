@@ -8,4 +8,4 @@ weight: 90
 share_photo: danube-vukovar-dusk
 ---
 
-Sve fotografije snimila je Svetlana Morozova, urednica sajta. Više o mestima sa fotografija: [Tvrđava Bač i hamam]({{< relref "nearby/bac-fortress" >}}), [jezero Provala]({{< relref "nearby/provala" >}}). Imate svoje fotografije Vajske? Pošaljite ih, objavićemo ih uz vaše ime.
+Fotografije u ovoj galeriji snimila je Svetlana Morozova, urednica sajta; album [Sombor]({{< relref "gallery/sombor" >}}) snimio je Konstantin Stein. Više o mestima sa fotografija: [Tvrđava Bač i hamam]({{< relref "nearby/bac-fortress" >}}), [jezero Provala]({{< relref "nearby/provala" >}}). Imate svoje fotografije Vajske? Pošaljite ih, objavićemo ih uz vaše ime.

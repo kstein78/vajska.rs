@@ -1,0 +1,19 @@
+# Photo albums inside the gallery section (content/<lang>/gallery/<page>.md, front matter album: <key>).
+sombor:
+- photo: sombor-zupanija
+- photo: sombor-city-hall
+- photo: sombor-st-george
+- photo: sombor-reading-room
+- photo: sombor-pedestrian-street
+- photo: sombor-fountain
+- photo: sombor-pink-palace
+- photo: sombor-visinka
+- photo: sombor-dalmatinski-podrum
+- photo: sombor-rose-door
+- photo: sombor-pink-corner
+- photo: sombor-yellow-street
+- photo: sombor-carmelite-church
+- photo: sombor-carmelite-facade
+- photo: sombor-carmelite-monastery
+- photo: sombor-park-heroja
+- photo: sombor-evangelical-church
