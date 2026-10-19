@@ -25,4 +25,4 @@ Each site of the network is about one place and speaks to its own readers. **vaj
 
 ## Write to us
 
-News, corrections, photos, stories of older residents: [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com).
+News, corrections, photos, stories of older residents: [seanews62@gmail.com](mailto:seanews62@gmail.com).

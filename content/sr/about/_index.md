@@ -25,4 +25,4 @@ Svaki sajt mreže piše o jednom mestu i obraća se svojoj publici. **vajska.rs*
 
 ## Pišite nam
 
-Vesti, ispravke, fotografije, priče starijih meštana: [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com).
+Vesti, ispravke, fotografije, priče starijih meštana: [seanews62@gmail.com](mailto:seanews62@gmail.com).

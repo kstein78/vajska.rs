@@ -25,4 +25,4 @@ hide_children: true
 
 ## Пишите нам
 
-Новости, поправки, фотографии, рассказы старожилов: [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com).
+Новости, поправки, фотографии, рассказы старожилов: [seanews62@gmail.com](mailto:seanews62@gmail.com).

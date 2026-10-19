@@ -23,7 +23,7 @@ Nakon sukoba u Borovu Selu, 4. svibnja 1991. pokrenuta je skela preko Dunava izm
 
 ## Pomozite nam
 
-Imate stare fotografije, dokumente ili obiteljske priče iz Vajske? Pišite na [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com). Fotografije objavljujemo samo uz vaše dopuštenje i s vašim imenom.
+Imate stare fotografije, dokumente ili obiteljske priče iz Vajske? Pišite na [seanews62@gmail.com](mailto:seanews62@gmail.com). Fotografije objavljujemo samo uz vaše dopuštenje i s vašim imenom.
 
 ## Izvori
 

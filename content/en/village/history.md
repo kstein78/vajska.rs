@@ -23,7 +23,7 @@ After the fighting at Borovo Selo in Croatia, a Danube ferry between Vajska and 
 
 ## Help us
 
-Do you have old photos, documents or family stories from Vajska? Write to [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com). We publish photos only with your permission and with your name.
+Do you have old photos, documents or family stories from Vajska? Write to [seanews62@gmail.com](mailto:seanews62@gmail.com). We publish photos only with your permission and with your name.
 
 ## Sources
 

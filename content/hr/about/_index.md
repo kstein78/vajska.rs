@@ -25,4 +25,4 @@ Svaka stranica mreže piše o jednom mjestu i obraća se svojoj publici. **vajsk
 
 ## Pišite nam
 
-Vijesti, ispravci, fotografije, priče starijih mještana: [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com).
+Vijesti, ispravci, fotografije, priče starijih mještana: [seanews62@gmail.com](mailto:seanews62@gmail.com).

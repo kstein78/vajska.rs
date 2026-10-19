@@ -32,6 +32,6 @@ Voli da kuva i skuplja knjige o kulinarstvu. Zato na sajtu ima i rubrika o kuhin
 
 ## Kontakt
 
-Imate vest iz sela, ispravku ili predlog? Pišite na [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com) dok ne otvorimo poseban mejl redakcije.
+Imate vest iz sela, ispravku ili predlog? Pišite na [seanews62@gmail.com](mailto:seanews62@gmail.com).
 
 Sajtove je zajedno sa Svetlanom osnovao **Konstantin (Kosta) Stein**: on ih programira i razvija, a idejno ih je pokrenuo po uzoru na [rakovac.rs](https://rakovac.rs/sr/). Više o mreži sajtova na stranici [O projektu]({{< relref "about" >}}).

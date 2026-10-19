@@ -23,7 +23,7 @@ Posle sukoba u Borovu Selu u Hrvatskoj, 4. maja 1991. pokrenuta je skela preko D
 
 ## Pomozite nam
 
-Imate stare fotografije, dokumente ili porodične priče iz Vajske? Pišite na [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com). Fotografije objavljujemo samo uz vašu dozvolu i sa vašim imenom.
+Imate stare fotografije, dokumente ili porodične priče iz Vajske? Pišite na [seanews62@gmail.com](mailto:seanews62@gmail.com). Fotografije objavljujemo samo uz vašu dozvolu i sa vašim imenom.
 
 ## Izvori
 

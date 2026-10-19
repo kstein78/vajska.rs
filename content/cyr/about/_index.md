@@ -26,4 +26,4 @@ hide_children: true
 
 ## Пишите нам
 
-Вести, исправке, фотографије, приче старијих мештана: [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com).
+Вести, исправке, фотографије, приче старијих мештана: [seanews62@gmail.com](mailto:seanews62@gmail.com).

@@ -32,6 +32,6 @@ She loves to cook and collects cookery books. That is why the site has a food se
 
 ## Contact
 
-Have news from the village, a correction or an idea? Write to [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com) until the editors have their own address.
+Have news from the village, a correction or an idea? Write to [seanews62@gmail.com](mailto:seanews62@gmail.com).
 
 The sites were founded together with **Konstantin (Kosta) Stein**, who builds and develops them and started the idea on the model of [rakovac.rs](https://rakovac.rs/en/). More about the network on the [About the project]({{< relref "about" >}}) page.
