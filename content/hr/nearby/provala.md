@@ -9,7 +9,7 @@ coords:
 - 19.09103
 facts:
   distance: Oko 6 minuta automobilom (2,8 km)
-photo: nearby-provala
+photo: provala-autumn-lake
 ---
 
 Jezero Provala udaljeno je oko kilometar od sela, prema Bođanima. Nastalo je kada je Dunav pri velikoj poplavi probio nasip; izvori navode 1924. ili 1926. godinu. Najveća dubina je oko 19 m, pa ga zovu najdubljim jezerom Vojvodine ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
@@ -19,3 +19,5 @@ Ljeti ovdje ima uređena pješčana plaža sa suncobranima, kabinama i tuševima
 Sve o kupanju, ribolovu, smještaju i prirodi jezera nalazi se na našoj sestrinskoj stranici **[provala.rs](https://provala.rs/hr/)**.
 
 Vrijeme vožnje iz Vajske je okvirno, izračunato prema podacima [OpenStreetMap](https://www.openstreetmap.org/copyright).
+
+{{< photos "provala-swan-autumn provala-summer-bathers" >}}

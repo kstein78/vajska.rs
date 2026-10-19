@@ -24,6 +24,7 @@ more:
   id: site
   label: nav_g_site
   items:
+  - path: gallery
   - path: about
   - path: author
 direct:

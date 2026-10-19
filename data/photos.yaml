@@ -8,3 +8,161 @@ vajska-illustration:
   alt_cyr: "Илустрација: сеоска црква у бачкој равници уз Дунав, поља пшенице и лабуд"
   alt_hr: 'Ilustracija: seoska crkva u bačkoj ravnici uz Dunav, polja pšenice i labud'
   alt_ru: 'Иллюстрация: сельская церковь на бачкой равнине у Дуная, пшеничные поля и лебедь'
+bac-fortress-panorama:
+  src: img/bac-fortress-panorama.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Bač Fortress from the road: the 14th-century keep among the ruined walls and towers, autumn trees and blue sky'
+  alt_sr: 'Tvrđava Bač sa puta: donžon kula iz 14. veka među ruševinama zidova i kula, jesenje drveće i plavo nebo'
+  alt_cyr: "Тврђава Бач са пута: донжон кула из 14. века међу рушевинама зидова и кула, јесење дрвеће и плаво небо"
+  alt_hr: 'Tvrđava Bač s ceste: donžon iz 14. stoljeća među ruševinama zidina i kula, jesensko drveće i plavo nebo'
+  alt_ru: 'Крепость Бач с дороги: донжон XIV века среди руин стен и башен, осенние деревья и синее небо'
+bac-fortress-arch-keep:
+  src: img/bac-fortress-arch-keep.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Looking up through a broken brick arch at Bač Fortress: an ivy-covered wall and the keep against the sky'
+  alt_sr: 'Pogled naviše kroz porušeni luk od opeke u tvrđavi Bač: zid obrastao bršljanom i donžon kula pod nebom'
+  alt_cyr: "Поглед навише кроз порушени лук од опеке у тврђави Бач: зид обрастао бршљаном и донжон кула под небом"
+  alt_hr: 'Pogled prema gore kroz srušeni luk od opeke u tvrđavi Bač: zid obrastao bršljanom i donžon pod nebom'
+  alt_ru: 'Взгляд вверх сквозь разрушенную кирпичную арку крепости Бач: стена в плюще и донжон на фоне неба'
+bac-fortress-keep-courtyard:
+  src: img/bac-fortress-keep-courtyard.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Inside Bač Fortress: ivy on a ruined wall, the restored keep and the foundations of a round structure in the grass'
+  alt_sr: 'U tvrđavi Bač: bršljan na porušenom zidu, obnovljena donžon kula i temelji okrugle građevine u travi'
+  alt_cyr: "У тврђави Бач: бршљан на порушеном зиду, обновљена донжон кула и темељи округле грађевине у трави"
+  alt_hr: 'U tvrđavi Bač: bršljan na srušenom zidu, obnovljeni donžon i temelji okrugle građevine u travi'
+  alt_ru: 'Внутри крепости Бач: плющ на разрушенной стене, восстановленный донжон и круглый фундамент в траве'
+bac-hamam:
+  src: img/bac-hamam.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Remains of the Ottoman bath (hamam) in Bač behind a weeping tree, with the bilingual information board
+  alt_sr: Ostaci turskog kupatila (hamama) u Baču iza žalosnog drveta, sa dvojezičnom informativnom tablom
+  alt_cyr: "Остаци турског купатила (хамама) у Бачу иза жалосног дрвета, са двојезичном информативном таблом"
+  alt_hr: Ostaci turske kupelji (hamama) u Baču iza žalosnog stabla, s dvojezičnom informativnom pločom
+  alt_ru: Остатки турецкой бани (хамама) в Баче за плакучим деревом, рядом двуязычный информационный щит
+bac-siljak-gate:
+  src: img/bac-siljak-gate.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'The Šiljak city gate in Bač: a square brick gate tower with an arched passage and Gothic double windows'
+  alt_sr: 'Gradska kapija Šiljak u Baču: četvorougaona kula-kapija od opeke sa lučnim prolazom i gotičkim biforama'
+  alt_cyr: "Градска капија Шиљак у Бачу: четвороугаона кула-капија од опеке са лучним пролазом и готичким бифорама"
+  alt_hr: 'Gradska vrata Šiljak u Baču: četverokutna kula-vrata od opeke s lučnim prolazom i gotičkim biforama'
+  alt_ru: 'Городские ворота Шиляк в Баче: квадратная кирпичная башня-ворота с арочным проездом и готическими двойными окнами'
+danube-vukovar-dusk:
+  src: img/danube-vukovar-dusk.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Vukovar across the Danube at dusk: the water tower on the left, a church spire on the hill on the right'
+  alt_sr: 'Vukovar preko Dunava u sumrak: vodotoranj levo, crkveni toranj na brdu desno'
+  alt_cyr: "Вуковар преко Дунава у сумрак: водоторањ лево, црквени торањ на брду десно"
+  alt_hr: 'Vukovar preko Dunava u sumrak: vodotoranj lijevo, crkveni zvonik na brežuljku desno'
+  alt_ru: 'Вуковар за Дунаем в сумерках: слева водонапорная башня, справа на холме шпиль церкви'
+danube-vukovar-lights:
+  src: img/danube-vukovar-lights.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: Evening lights of Vukovar reflected in the Danube, the illuminated VUKOVAR sign on the embankment
+  alt_sr: Večernja svetla Vukovara u Dunavu, osvetljeni natpis VUKOVAR na keju
+  alt_cyr: "Вечерња светла Вуковара у Дунаву, осветљени натпис ВУКОВАР на кеју"
+  alt_hr: Večernja svjetla Vukovara u Dunavu, osvijetljeni natpis VUKOVAR na obali
+  alt_ru: Вечерние огни Вуковара в Дунае, светящаяся надпись VUKOVAR на набережной
+danube-croatian-bank:
+  src: img/danube-croatian-bank.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: The Danube from a sandy bank under a willow, buildings and silos on the Croatian side
+  alt_sr: Dunav sa peščane obale pod vrbom, zgrade i silosi na hrvatskoj strani
+  alt_cyr: "Дунав са пешчане обале под врбом, зграде и силоси на хрватској страни"
+  alt_hr: Dunav s pješčane obale pod vrbom, zgrade i silosi na hrvatskoj strani
+  alt_ru: Дунай с песчаного берега под ивой, на хорватской стороне здания и элеваторы
+danube-sandy-bank:
+  src: img/danube-sandy-bank.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A sandy Danube bank in spring, grass and a lone willow, the far bank low on the horizon
+  alt_sr: Peščana obala Dunava u proleće, trava i usamljena vrba, druga obala nisko na horizontu
+  alt_cyr: "Пешчана обала Дунава у пролеће, трава и усамљена врба, друга обала ниско на хоризонту"
+  alt_hr: Pješčana obala Dunava u proljeće, trava i usamljena vrba, druga obala nisko na obzoru
+  alt_ru: Песчаный берег Дуная весной, трава и одинокая ива, дальний берег низко у горизонта
+provala-autumn-lake:
+  src: img/provala-autumn-lake.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Lake Provala on a sunny autumn day: reeds, poplars and white clouds over calm water'
+  alt_sr: 'Jezero Provala sunčanog jesenjeg dana: trska, topole i beli oblaci nad mirnom vodom'
+  alt_cyr: "Језеро Провала сунчаног јесењег дана: трска, тополе и бели облаци над мирном водом"
+  alt_hr: 'Jezero Provala sunčanog jesenskog dana: trska, topole i bijeli oblaci nad mirnom vodom'
+  alt_ru: 'Озеро Провала в солнечный осенний день: камыш, тополя и белые облака над спокойной водой'
+provala-swan-autumn:
+  src: img/provala-swan-autumn.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: A mute swan on Lake Provala in autumn, golden reeds and poplars, grain silos in the distance
+  alt_sr: Labud na jezeru Provala u jesen, zlatna trska i topole, silosi u daljini
+  alt_cyr: "Лабуд на језеру Провала у јесен, златна трска и тополе, силоси у даљини"
+  alt_hr: Labud na jezeru Provala u jesen, zlatna trska i topole, silosi u daljini
+  alt_ru: Лебедь-шипун на озере Провала осенью, золотой камыш и тополя, вдали элеватор
+provala-summer-bathers:
+  src: img/provala-summer-bathers.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'Summer on Lake Provala: swans resting on the sandy shore while people wade into the water'
+  position: 50% 60%
+  alt_sr: 'Leto na Provali: labudovi odmaraju na peščanoj obali dok kupači ulaze u vodu'
+  alt_cyr: "Лето на Провали: лабудови одмарају на пешчаној обали док купачи улазе у воду"
+  alt_hr: 'Ljeto na Provali: labudovi odmaraju na pješčanoj obali dok kupači ulaze u vodu'
+  alt_ru: 'Лето на Провале: лебеди отдыхают на песке, а купающиеся заходят в воду'
+provala-blue-reflection:
+  src: img/provala-blue-reflection.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: 'A clear summer day on Lake Provala: a round tree and the blue sky mirrored in still water'
+  position: 50% 50%
+  alt_sr: 'Vedar letnji dan na Provali: krošnja drveta i plavo nebo ogledaju se u mirnoj vodi'
+  alt_cyr: "Ведар летњи дан на Провали: крошња дрвета и плаво небо огледају се у мирној води"
+  alt_hr: 'Vedar ljetni dan na Provali: krošnja stabla i plavo nebo ogledaju se u mirnoj vodi'
+  alt_ru: 'Ясный летний день на Провале: круглая крона и синее небо отражаются в спокойной воде'

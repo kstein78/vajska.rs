@@ -9,7 +9,7 @@ coords:
 - 19.09103
 facts:
   distance: Около 6 минут на машине (2,8 км)
-photo: nearby-provala
+photo: provala-autumn-lake
 ---
 
 Озеро Провала — примерно в километре от села, в сторону Бођани. Оно появилось, когда Дунай в большое половодье прорвал дамбу; источники называют 1924 или 1926 год. Наибольшая глубина около 19 м, поэтому его называют самым глубоким озером Воеводины ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
@@ -19,3 +19,5 @@ photo: nearby-provala
 Всё о купании, рыбалке, жилье и природе озера — на нашем соседнем сайте **[provala.rs](https://provala.rs/ru/)**.
 
 Время в пути из Вайски примерное, рассчитано по данным [OpenStreetMap](https://www.openstreetmap.org/copyright).
+
+{{< photos "provala-swan-autumn provala-summer-bathers" >}}
