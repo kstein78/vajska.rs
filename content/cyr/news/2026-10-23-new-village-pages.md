@@ -9,8 +9,11 @@ related:
 - village/solunci
 - village/churches
 - village/life
+- village/sokacka-kuca
 ---
 
 По репортажи Дневника „Дневник у селу крај воде – Вајска” (април 2024) допунили смо [историју села]({{< relref "village/history" >}}) и додали нове странице: [Солунски добровољци у Вајској]({{< relref "village/solunci" >}}), [Храмови Вајске]({{< relref "village/churches" >}}) и [Живот у Вајској]({{< relref "village/life" >}}). У [календар]({{< relref "events" >}}) је додат парастос солунским добровољцима 24. маја.
+
+Додата је и страница [Шокачка кућа у Вајској]({{< relref "village/sokacka-kuca" >}}), по тексту [Завода за културу војвођанских Хрвата](https://www.zkvh.org.rs/etno-kuce-post/etno-kuce/sokacka-kuca-vajska).
 
 Извор: [Дневник, 22. 4. 2024: „Дневник у селу крај воде – Вајска”, текст и фотографије Леа Радловачки](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

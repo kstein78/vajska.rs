@@ -19,7 +19,7 @@ Pre Prvog svetskog rata selo je bilo katoličko, sa Mađarima, Nemcima i Hrvatim
 
 ## Stara imena
 
-U istorijskim popisima naselja selo se javlja i kao **Tothwayzka**. Ime spada u grupu podunavskih naselja sa delom *Tót*, u kojima su živeli ili i danas žive bački **Šokci** ([ZKVH, Naselje Šokac](https://zkvh.org.rs/storage/app/uploads/public/62f/f33/037/62ff33037caf8000026131.pdf)). Današnja zvanična imena su Vajska, mađarski *Vajszka* i *Józsefháza*, nemački *Wajska* ([Vikipedija](https://en.wikipedia.org/wiki/Vajska)).
+U istorijskim popisima naselja selo se javlja i kao **Tothwayzka**. Ime spada u grupu podunavskih naselja sa delom *Tót*, u kojima su živeli ili i danas žive bački **Šokci** ([ZKVH, Naselje Šokac](https://zkvh.org.rs/storage/app/uploads/public/62f/f33/037/62ff33037caf8000026131.pdf)). Današnja zvanična imena su Vajska, mađarski *Vajszka* i *Józsefháza*, nemački *Wajska* ([Vikipedija](https://en.wikipedia.org/wiki/Vajska)). Njihovu tradiciju danas čuva [Šokačka kuća]({{< relref "village/sokacka-kuca" >}}) u Vajskoj.
 
 ## Selo se smanjuje
 

@@ -17,6 +17,7 @@ tile: Kirbaj, Časni krst na Provali, kulenijada, Dani Bača
 | svibanj ili lipanj | **Dan jagoda i meda** | Gradski park, Bač |
 | lipanj | **Ciklo Bač**, biciklistička tura (12. put 21. lipnja 2026.) | polazak od tvrđave, Bač |
 | lipanj | **Srednjovjekovni dan** | tvrđava Bač |
+| početak srpnja | **Zavitno-zavičajni dan** | Šokačka kuća, Vajska |
 | rujan | **Dani europske baštine – Dani Bača**, više od 20 godina (2026.: 17. – 20. rujna) | Bač |
 
 Izvori: [TO Bač, najave događanja](https://turizambac.rs/najave-dogadaja/), za kirbaj [Vreme](https://vreme.com/mozaik/za-kim-zvone-backa-zvona/). Točne datume za tekuću godinu provjerite kod organizatora, a mi ih objavljujemo u [vijestima]({{< relref "news" >}}).

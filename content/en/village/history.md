@@ -19,7 +19,7 @@ Before the First World War the village was Catholic, with Hungarians, Germans an
 
 ## Old names
 
-In historical lists of settlements the village also appears as **Tothwayzka**. The name belongs to a group of Danube villages with *Tót* in their names, where the Bačka **Šokci** lived or still live ([ZKVH, Naselje Šokac](https://zkvh.org.rs/storage/app/uploads/public/62f/f33/037/62ff33037caf8000026131.pdf)). Today's official names are Vajska, Hungarian *Vajszka* and *Józsefháza*, German *Wajska* ([Wikipedia](https://en.wikipedia.org/wiki/Vajska)).
+In historical lists of settlements the village also appears as **Tothwayzka**. The name belongs to a group of Danube villages with *Tót* in their names, where the Bačka **Šokci** lived or still live ([ZKVH, Naselje Šokac](https://zkvh.org.rs/storage/app/uploads/public/62f/f33/037/62ff33037caf8000026131.pdf)). Today's official names are Vajska, Hungarian *Vajszka* and *Józsefháza*, German *Wajska* ([Wikipedia](https://en.wikipedia.org/wiki/Vajska)). Their traditions are kept today in the [Šokac house]({{< relref "village/sokacka-kuca" >}}) in Vajska.
 
 ## A shrinking village
 
