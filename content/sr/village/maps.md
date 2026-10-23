@@ -12,7 +12,7 @@ Na kartama se vidi kako se okolina Vajske menjala: Dunav sa rukavcima i barama, 
 
 Najdetaljnije karte iz druge polovine 20. veka su topografske karte Jugoslovenske narodne armije, koje je izrađivao i štampao Vojnogeografski institut u Beogradu. Decenijama su bile tajne: na marginama stoji oznaka tajnosti i napomena *„Kopiranje i umnožavanje zabranjeno”*. Danas su skenovi mnogih listova sakupljeni na sajtu [topografskakarta.com](https://www.topografskakarta.com/).
 
-**Karte su objavljene uz dozvolu vlasnika sajta [topografskakarta.com](https://www.topografskakarta.com/), Haxhi Berisha.** Prikazujemo samo deo svakog lista oko Vajske. Ako ste nosilac prava na ove karte i ne slažete se s objavljivanjem, [pišite nam]({{< relref "author" >}}) i uklonićemo ih.
+**Karte su objavljene uz dozvolu vlasnika sajta [topografskakarta.com](https://www.topografskakarta.com/), Haxhi Berisha.** Prikazujemo samo deo svakog lista oko Vajske. Ako imate pitanja o ovim kartama, [pišite nam]({{< relref "author" >}}) ili se obratite vlasniku sajta topografskakarta.com preko [njegovog kontakt-formulara](https://www.topografskakarta.com/formular/).
 
 ### 1:25.000, listovi „Bačka Palanka 1-1” i „1-2”, 1975–1976.
 
