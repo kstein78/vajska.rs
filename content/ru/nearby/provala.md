@@ -12,7 +12,7 @@ facts:
 photo: provala-autumn-lake
 ---
 
-Озеро Провала — примерно в километре от села, в сторону Бођани. Оно появилось, когда Дунай в большое половодье прорвал дамбу; источники называют 1924 или 1926 год. Наибольшая глубина около 19 м, поэтому его называют самым глубоким озером Воеводины ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). 21 мая 2024 года Вайска отметила столетие озера ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+Озеро Провала — примерно в километре от села, в сторону Боджани. Оно появилось, когда Дунай в большое половодье прорвал дамбу; источники называют 1924 или 1926 год. Наибольшая глубина около 19 м, поэтому его называют самым глубоким озером Воеводины ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). 21 мая 2024 года Вайска отметила столетие озера ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
 
 Летом здесь оборудованный песчаный пляж с зонтиками, кабинками и душами, кемпинг и ресторан. Спасателей нет, купание на свой страх и риск ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
