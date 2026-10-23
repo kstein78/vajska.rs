@@ -8,4 +8,4 @@ tile: Sva mesta na jednoj mapi
 map: true
 ---
 
-
+Stare i vojne karte okoline, od 1910. do sedamdesetih: [Karte Vajske]({{< relref "village/maps" >}}).

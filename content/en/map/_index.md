@@ -8,4 +8,4 @@ tile: All places on one map
 map: true
 ---
 
-
+Old and military maps of the area, from 1910 to the 1970s: [Maps of Vajska]({{< relref "village/maps" >}}).
