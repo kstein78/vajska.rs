@@ -13,6 +13,7 @@ summary: 'Kirbaj u Vajskoj, plivanje za Časni krst na Provali, kulenijada, Dan 
 | januar, Bogojavljenje | **Plivanje za Časni krst** (2026. bilo je 19. januara u 12 h) | jezero Provala |
 | april | **Bačka kulenijada i kobasicijada** | Gradski park, Bač |
 | 23. april | **Kirbaj**, praznik sela na Đurđevdan | Vajska |
+| 24. maj | **Parastos solunskim dobrovoljcima** | spomen-česma, Vajska |
 | maj ili jun | **Dan jagoda i meda** | Gradski park, Bač |
 | jun | **Ciklo Bač**, biciklistička tura (12. put 21. juna 2026) | polazak od tvrđave, Bač |
 | jun | **Srednjovekovni dan** | Bačka tvrđava |

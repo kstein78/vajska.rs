@@ -28,6 +28,8 @@ list_title: Ещё о селе
 | 2002 | 3169 |
 | 2011 | 2834 |
 
+По данным местной общины, в апреле 2024 года в селе жило около 2000 человек ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 Источник: [Википедия](https://en.wikipedia.org/wiki/Vajska). Данные переписи 2022 года по самому селу ещё добавим.
 
 ## Источники

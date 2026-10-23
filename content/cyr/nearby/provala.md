@@ -13,7 +13,7 @@ facts:
 photo: provala-autumn-lake
 ---
 
-Језеро Провала је око километар од села, према Бођанима. Настало је када је Дунав при великој поплави пробио насип; извори наводе 1924. или 1926. годину. Највећа дубина је око 19 м, због чега га зову најдубљим језером Војводине ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
+Језеро Провала је око километар од села, према Бођанима. Настало је када је Дунав при великој поплави пробио насип; извори наводе 1924. или 1926. годину. Највећа дубина је око 19 м, због чега га зову најдубљим језером Војводине ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)). Вајска је 21. маја 2024. прославила сто година језера ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
 
 Лети овде има уређена пешчана плажа са сунцобранима, кабинама и тушевима, камп и ресторан. Спасилачке службе нема, купање је на сопствену одговорност ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 

@@ -13,6 +13,7 @@ summary: 'The kirbaj in Vajska, the Epiphany swim at Lake Provala, the kulen fes
 | January, Epiphany | **Swimming for the Holy Cross** (in 2026 on 19 January at noon) | Lake Provala |
 | April | **Bačka kulen and sausage festival** | City Park, Bač |
 | 23 April | **Kirbaj**, the village feast on St George's Day | Vajska |
+| 24 May | **Memorial service for the Salonika volunteers** | memorial fountain, Vajska |
 | May or June | **Strawberry and Honey Day** | City Park, Bač |
 | June | **Ciklo Bač** bike tour (12th edition on 21 June 2026) | start at the fortress, Bač |
 | June | **Medieval Day** | Bač Fortress |

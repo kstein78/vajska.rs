@@ -29,6 +29,8 @@ list_title: Више о селу
 | 2002. | 3.169 |
 | 2011. | 2.834 |
 
+Према Месној заједници, у априлу 2024. у селу је живело око 2.000 људи ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 Извор: [Википедија](https://en.wikipedia.org/wiki/Vajska). Податке пописа 2022. за само село још додајемо.
 
 ## Извори

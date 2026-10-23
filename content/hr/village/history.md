@@ -4,10 +4,18 @@ weight: 1
 kicker: Povijest
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
-summary: 'Povijest Vajske iz dostupnih izvora: stara imena sela, Šokci uz Dunav, pad broja stanovnika od 1961. i skela Vajska – Borovo 1991.'
+summary: 'Povijest Vajske: podrijetlo imena, prvi spomen 1338., solunski dobrovoljci nakon Prvoga svjetskog rata, stara imena sela, Šokci uz Dunav i skela Vajska – Borovo 1991.'
 ---
 
 Pisanih izvora o Vajskoj na internetu ima malo, pa ovu stranicu gradimo postupno, uz pomoć mještana. Ovo je zasad potvrđeno.
+
+## Ime i prvi spomen
+
+Za ime sela postoje dva objašnjenja: prema obližnjem kanalu **Vajš** ili prema **vejsama**, vršama i pregradama u koje je riba ulazila, a nije mogla izaći. Ovim dijelom jugozapadne Bačke prolazili su Kelti, Vizigoti, Huni, Germani, Slaveni, Avari i Tatari, a Mađari su se, prema Dnevniku, ovdje naselili u IX. stoljeću. Vajska se prvi put spominje **1338.**, kada je u njoj živjelo pet obitelji ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
+## Prije i poslije Prvoga svjetskog rata
+
+Prije Prvoga svjetskog rata selo je bilo katoličko, s Mađarima, Nijemcima i Hrvatima. Nakon rata doselilo se 176 pravoslavnih obitelji **solunskih dobrovoljaca** ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)); više o njima na stranici [Solunski dobrovoljci u Vajskoj]({{< relref "village/solunci" >}}). Danas u selu živi dvadesetak nacionalnosti ([Život u Vajskoj]({{< relref "village/life" >}})).
 
 ## Stara imena
 
@@ -29,3 +37,4 @@ Imate stare fotografije, dokumente ili obiteljske priče iz Vajske? Pišite na [
 
 - [Wikipedija: Vajska (engl.)](https://en.wikipedia.org/wiki/Vajska)
 - [Zavod za kulturu vojvođanskih Hrvata: Naselje Šokac (PDF)](https://zkvh.org.rs/storage/app/uploads/public/62f/f33/037/62ff33037caf8000026131.pdf)
+- [Dnevnik, 22. 4. 2024.: „Dnevnik u selu kraj vode – Vajska”, tekst i fotografije Lea Radlovački (srp.)](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)

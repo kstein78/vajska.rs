@@ -13,6 +13,7 @@ tile: Kirbaj, Časni krst na Provali, kulenijada, Dani Bača
 | siječanj, pravoslavno Bogojavljenje | **Plivanje za Časni krst** (2026. održano 19. siječnja u 12 h) | jezero Provala |
 | travanj | **Bačka kulenijada i kobasicijada** | Gradski park, Bač |
 | 23. travnja | **Kirbaj**, blagdan sela na Jurjevo | Vajska |
+| 24. svibnja | **Parastos solunskim dobrovoljcima** | spomen-česma, Vajska |
 | svibanj ili lipanj | **Dan jagoda i meda** | Gradski park, Bač |
 | lipanj | **Ciklo Bač**, biciklistička tura (12. put 21. lipnja 2026.) | polazak od tvrđave, Bač |
 | lipanj | **Srednjovjekovni dan** | tvrđava Bač |

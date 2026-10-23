@@ -28,6 +28,8 @@ U središtu sela je katolička crkva **svetog Jurja**. Kirbaj, blagdan sela, sla
 | 2002. | 3.169 |
 | 2011. | 2.834 |
 
+Prema Mjesnoj zajednici, u travnju 2024. u selu je živjelo oko 2000 ljudi ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 Izvor: [Wikipedija](https://en.wikipedia.org/wiki/Vajska). Podatke popisa iz 2022. za samo selo još dodajemo.
 
 ## Izvori

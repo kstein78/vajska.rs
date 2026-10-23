@@ -28,6 +28,8 @@ The Catholic church of **St George** stands in the centre of the village. The ki
 | 2002 | 3,169 |
 | 2011 | 2,834 |
 
+According to the local community, about 2,000 people lived in the village in April 2024 ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Vajska). The 2022 census figure for the village itself is still to be added.
 
 ## Sources
