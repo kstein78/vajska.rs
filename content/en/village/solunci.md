@@ -14,6 +14,10 @@ By the park, at the corner of the two main streets, stands a **memorial fountain
 
 The names were collected over four years by **Dimitrije Šolaja**, who was born in Vajska and now lives in Novi Sad. In the Archive of Vojvodina he identified all 176 volunteers by name ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
 
+{{< photos "solunci-fountain-icon solunci-plaque-names" >}}
+
+The fountain carries an icon of the Mother of God, the Life-giving Spring, and below it a stone plaque reading "Kajmakčalan 15.09.1916–15.09.2026", for the 110th anniversary of the Battle of Kajmakčalan. The names of the Salonika volunteers are carved on the plaque "Potomci precima" (descendants to their ancestors). The fountain stands next to the [church of St Petka]({{< relref "village/churches" >}}).
+
 ## Memorial service on 24 May
 
 Every year on **24 May** a memorial service (*parastos*) for the Salonika volunteers is held at the fountain ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). We post the date and time for the current year in the [news]({{< relref "news" >}}).

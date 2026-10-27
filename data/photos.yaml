@@ -382,3 +382,231 @@ jna25-vajska:
   alt_cyr: "Вајска, језеро Провала и Бођани на топографској карти ЈНА 1:25.000, листови Бачка Паланка 1-1 и 1-2, 1975–1976."
   alt_hr: 'Vajska, jezero Provala i Bođani na topografskoj karti JNA 1:25.000, listovi Bačka Palanka 1-1 i 1-2, 1975.–1976.'
   alt_ru: 'Вайска, озеро Провала и Боджани на топографической карте ЮНА 1:25 000, листы Бачка-Паланка 1-1 и 1-2, 1975–1976'
+petkovdan-arrivals:
+  src: img/petkovdan-arrivals.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Cars parked along the street and people gathering under autumn trees for the feast of St Petka in Vajska"
+  alt_sr: "Automobili parkirani duž ulice i ljudi koji se okupljaju pod jesenjim drvećem za praznik Svete Petke u Vajskoj"
+  alt_cyr: "Аутомобили паркирани дуж улице и људи који се окупљају под јесењим дрвећем за празник Свете Петке у Вајској"
+  alt_hr: "Automobili parkirani duž ulice i ljudi koji se okupljaju pod jesenskim drvećem za blagdan Svete Petke u Vajskoj"
+  alt_ru: "Машины вдоль улицы и люди, собирающиеся под осенними деревьями на праздник святой Петки в Вайске"
+petkovdan-church-crowd:
+  src: img/petkovdan-church-crowd.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The Orthodox church of St Petka in Vajska with its bell tower and dome, villagers gathered in front on the feast day"
+  alt_sr: "Pravoslavni hram Svete Petke u Vajskoj sa zvonikom i kupolom, meštani okupljeni ispred na dan slave"
+  alt_cyr: "Православни храм Свете Петке у Вајској са звоником и куполом, мештани окупљени испред на дан славе"
+  alt_hr: "Pravoslavni hram Svete Petke u Vajskoj sa zvonikom i kupolom, mještani okupljeni ispred na dan slave"
+  alt_ru: "Православный храм святой Петки в Вайске с колокольней и куполом, перед ним собрались жители в день праздника"
+petkovdan-waiting-line:
+  src: img/petkovdan-waiting-line.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Villagers standing in a line along the path to the church of St Petka, waiting for the bishop"
+  alt_sr: "Meštani stoje u redu duž staze do hrama Svete Petke i čekaju episkopa"
+  alt_cyr: "Мештани стоје у реду дуж стазе до храма Свете Петке и чекају епископа"
+  alt_hr: "Mještani stoje u redu uz stazu do hrama Svete Petke i čekaju episkopa"
+  alt_ru: "Жители выстроились вдоль дорожки к храму святой Петки в ожидании епископа"
+petkovdan-clergy-fountain:
+  src: img/petkovdan-clergy-fountain.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Priests in white vestments by the memorial fountain of the Salonika volunteers, among the villagers"
+  alt_sr: "Sveštenici u belim odeždama kod spomen-česme solunskih dobrovoljaca, među meštanima"
+  alt_cyr: "Свештеници у белим одеждама код спомен-чесме солунских добровољаца, међу мештанима"
+  alt_hr: "Svećenici u bijelim odorama kod spomen-česme solunskih dobrovoljaca, među mještanima"
+  alt_ru: "Священники в белых облачениях у памятной чесмы солунских добровольцев, среди жителей"
+petkovdan-clergy-carpet:
+  src: img/petkovdan-clergy-carpet.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Priests and a girl in folk costume at the start of the white carpet that leads to the church of St Petka"
+  alt_sr: "Sveštenici i devojčica u narodnoj nošnji na početku belog tepiha koji vodi do hrama Svete Petke"
+  alt_cyr: "Свештеници и девојчица у народној ношњи на почетку белог тепиха који води до храма Свете Петке"
+  alt_hr: "Svećenici i djevojčica u narodnoj nošnji na početku bijelog tepiha koji vodi do hrama Svete Petke"
+  alt_ru: "Священники и девочка в народном костюме у начала белой дорожки, ведущей к храму святой Петки"
+petkovdan-welcome-bread:
+  src: img/petkovdan-welcome-bread.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Girls in Serbian folk costume waiting with bread and flowers to welcome the bishop, the church behind them"
+  alt_sr: "Devojčice u srpskoj narodnoj nošnji čekaju sa hlebom i cvećem da dočekaju episkopa, iza njih hram"
+  alt_cyr: "Девојчице у српској народној ношњи чекају са хлебом и цвећем да дочекају епископа, иза њих храм"
+  alt_hr: "Djevojčice u srpskoj narodnoj nošnji čekaju s kruhom i cvijećem da dočekaju episkopa, iza njih hram"
+  alt_ru: "Девочки в сербских народных костюмах ждут с хлебом и цветами, чтобы встретить епископа; за ними храм"
+petkovdan-bishop-bread:
+  src: img/petkovdan-bishop-bread.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The bishop is welcomed with bread by a girl in folk costume, priests beside them"
+  alt_sr: "Devojčica u narodnoj nošnji dočekuje episkopa hlebom, pored njih sveštenici"
+  alt_cyr: "Девојчица у народној ношњи дочекује епископа хлебом, поред њих свештеници"
+  alt_hr: "Djevojčica u narodnoj nošnji dočekuje episkopa kruhom, pokraj njih svećenici"
+  alt_ru: "Девочка в народном костюме встречает епископа хлебом, рядом священники"
+petkovdan-censer:
+  src: img/petkovdan-censer.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "A priest with a censer and a girl holding bread on an embroidered towel at the welcome of the bishop"
+  alt_sr: "Sveštenik sa kadionicom i devojčica sa hlebom na vezenom peškiru pri dočeku episkopa"
+  alt_cyr: "Свештеник са кадионицом и девојчица са хлебом на везеном пешкиру при дочеку епископа"
+  alt_hr: "Svećenik s kadionicom i djevojčica s kruhom na vezenom ručniku pri dočeku episkopa"
+  alt_ru: "Священник с кадилом и девочка с хлебом на вышитом полотенце при встрече епископа"
+petkovdan-bishop:
+  src: img/petkovdan-bishop.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The bishop with his crozier in front of the villagers, a priest beside him"
+  alt_sr: "Episkop sa žezlom ispred okupljenih meštana, pored njega sveštenik"
+  alt_cyr: "Епископ са жезлом испред окупљених мештана, поред њега свештеник"
+  alt_hr: "Episkop sa žezlom ispred okupljenih mještana, pokraj njega svećenik"
+  alt_ru: "Епископ с посохом перед собравшимися жителями, рядом священник"
+petkovdan-procession:
+  src: img/petkovdan-procession.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The bishop and priests walk along the white carpet to the church of St Petka in the evening sun"
+  alt_sr: "Episkop i sveštenici idu belim tepihom ka hramu Svete Petke u večernjem suncu"
+  alt_cyr: "Епископ и свештеници иду белим тепихом ка храму Свете Петке у вечерњем сунцу"
+  alt_hr: "Episkop i svećenici idu bijelim tepihom prema hramu Svete Petke na večernjem suncu"
+  alt_ru: "Епископ и священники идут по белой дорожке к храму святой Петки в вечернем солнце"
+petkovdan-entering:
+  src: img/petkovdan-entering.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Villagers crowding into the church of St Petka, its bell tower lit by the setting sun"
+  alt_sr: "Meštani ulaze u hram Svete Petke, zvonik obasjan zalazećim suncem"
+  alt_cyr: "Мештани улазе у храм Свете Петке, звоник обасјан залазећим сунцем"
+  alt_hr: "Mještani ulaze u hram Svete Petke, zvonik obasjan zalazećim suncem"
+  alt_ru: "Жители входят в храм святой Петки, колокольню освещает закатное солнце"
+petkovdan-church-tables:
+  src: img/petkovdan-church-tables.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Tables with homemade pastries under a shelter beside the church of St Petka"
+  alt_sr: "Stolovi sa domaćim kolačima pod nadstrešnicom pored hrama Svete Petke"
+  alt_cyr: "Столови са домаћим колачима под надстрешницом поред храма Свете Петке"
+  alt_hr: "Stolovi s domaćim kolačima pod nadstrešnicom pokraj hrama Svete Petke"
+  alt_ru: "Столы с домашней выпечкой под навесом рядом с храмом святой Петки"
+petkovdan-pastry-stall:
+  src: img/petkovdan-pastry-stall.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Women by the tables of pastries, two children playing in the fallen leaves below"
+  alt_sr: "Žene kod stolova sa kolačima, ispod njih dvoje dece igra se u opalom lišću"
+  alt_cyr: "Жене код столова са колачима, испод њих двоје деце игра се у опалом лишћу"
+  alt_hr: "Žene kod stolova s kolačima, ispod njih dvoje djece igra se u opalom lišću"
+  alt_ru: "Женщины у столов с выпечкой, внизу двое детей играют в опавших листьях"
+petkovdan-pastries:
+  src: img/petkovdan-pastries.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Plates of homemade buns with sesame and cakes prepared for the feast"
+  alt_sr: "Tanjiri domaćih kiflica sa susamom i kolača pripremljenih za slavu"
+  alt_cyr: "Тањири домаћих кифлица са сусамом и колача припремљених за славу"
+  alt_hr: "Tanjuri domaćih peciva sa sezamom i kolača pripremljenih za slavu"
+  alt_ru: "Тарелки домашних булочек с кунжутом и пирогов, приготовленных к празднику"
+solunci-fountain-icon:
+  src: img/solunci-fountain-icon.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The memorial fountain of the Salonika volunteers: a brick arch with the icon of the Mother of God, the Life-giving Spring, and a stone plaque \"Kajmakčalan 15.09.1916–15.09.2026\""
+  alt_sr: "Spomen-česma solunskih dobrovoljaca: zidani luk sa ikonom Bogorodice Živonosni istočnik i kamenom pločom „Kajmakčalan 15.09.1916–15.09.2026”"
+  alt_cyr: "Спомен-чесма солунских добровољаца: зидани лук са иконом Богородице Живоносни источник и каменом плочом „Кајмакчалан 15.09.1916–15.09.2026”"
+  alt_hr: "Spomen-česma solunskih dobrovoljaca: zidani luk s ikonom Bogorodice Životvorni izvor i kamenom pločom „Kajmakčalan 15.09.1916–15.09.2026”"
+  alt_ru: "Памятная чесма солунских добровольцев: кирпичная арка с иконой Богородицы «Живоносный источник» и каменной табличкой «Каймакчалан 15.09.1916–15.09.2026»"
+solunci-plaque-names:
+  src: img/solunci-plaque-names.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Black stone plaque \"Potomci precima\" (descendants to their ancestors) on the memorial fountain, with the names of the Salonika volunteers"
+  alt_sr: "Crna kamena ploča „Potomci precima” na spomen-česmi, sa imenima solunskih dobrovoljaca"
+  alt_cyr: "Црна камена плоча „Потомци прецима” на спомен-чесми, са именима солунских добровољаца"
+  alt_hr: "Crna kamena ploča „Potomci precima” na spomen-česmi, s imenima solunskih dobrovoljaca"
+  alt_ru: "Чёрная каменная плита «Потомци прецима» («Потомки предкам») на чесме с именами солунских добровольцев"
+vajska-autumn-sidewalk:
+  src: img/vajska-autumn-sidewalk.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "An autumn sidewalk in Vajska under branches with yellow and red leaves"
+  alt_sr: "Jesenji trotoar u Vajskoj ispod grana sa žutim i crvenim lišćem"
+  alt_cyr: "Јесењи тротоар у Вајској испод грана са жутим и црвеним лишћем"
+  alt_hr: "Jesenski nogostup u Vajskoj ispod grana sa žutim i crvenim lišćem"
+  alt_ru: "Осенний тротуар в Вайске под ветками с жёлтой и красной листвой"
+vajska-sunset-street:
+  src: img/vajska-sunset-street.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "An orange sunset over a village street in Vajska, with electricity poles and garden trees"
+  alt_sr: "Narandžasti zalazak sunca nad seoskom ulicom u Vajskoj, sa banderama i drvećem iz bašti"
+  alt_cyr: "Наранџасти залазак сунца над сеоском улицом у Вајској, са бандерама и дрвећем из башти"
+  alt_hr: "Narančasti zalazak sunca nad seoskom ulicom u Vajskoj, sa stupovima i drvećem iz vrtova"
+  alt_ru: "Оранжевый закат над сельской улицей в Вайске, столбы и деревья из садов"
+vajska-sunset-cloud:
+  src: img/vajska-sunset-cloud.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "A pink cloud at sunset over a white farmhouse and garden in Vajska"
+  alt_sr: "Ružičasti oblak u zalazak sunca nad belom kućom i baštom u Vajskoj"
+  alt_cyr: "Ружичасти облак у залазак сунца над белом кућом и баштом у Вајској"
+  alt_hr: "Ružičasti oblak u zalazak sunca nad bijelom kućom i vrtom u Vajskoj"
+  alt_ru: "Розовое облако на закате над белым домиком и садом в Вайске"

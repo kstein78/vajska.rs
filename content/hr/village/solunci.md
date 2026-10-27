@@ -14,6 +14,10 @@ Kod parka, na uglu dviju glavnih ulica, stoji **spomen-česma s imenima solunaca
 
 Imena je četiri godine skupljao **Dimitrije Šolaja**, rodom iz Vajske, koji danas živi u Novom Sadu. U Arhivu Vojvodine pronašao je imenom i prezimenom svih 176 dobrovoljaca ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
 
+{{< photos "solunci-fountain-icon solunci-plaque-names" >}}
+
+Na česmi je ikona Bogorodice Životvorni izvor, a ispod nje kamena ploča s natpisom „Kajmakčalan 15.09.1916–15.09.2026”, za 110 godina od bitke na Kajmakčalanu. Na ploči „Potomci precima” uklesana su imena solunskih dobrovoljaca. Česma stoji pokraj [hrama Svete Petke]({{< relref "village/churches" >}}).
+
 ## Parastos 24. svibnja
 
 Svake godine **24. svibnja** kod česme se služi parastos solunskim dobrovoljcima ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Datum i satnicu za tekuću godinu objavljujemo u [vijestima]({{< relref "news" >}}).

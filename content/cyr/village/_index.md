@@ -4,7 +4,7 @@ title: О Вајској
 linkTitle: Село
 weight: 10
 kicker: Село уз Дунав
-photo: vajska-illustration
+photo: vajska-sunset-street
 lead: 'Мешовито село Бачке уз Дунав: црква Светог Јурја у центру, кирбај 23. априла, језеро Провала и шуме Лабудњаче надомак.'
 tile: Село, црква Светог Јурја и кирбај, Лабудњача и Жива
 list_title: Више о селу

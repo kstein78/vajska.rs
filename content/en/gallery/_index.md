@@ -9,3 +9,5 @@ share_photo: danube-vukovar-dusk
 ---
 
 The photos in this gallery were taken by Svetlana Morozova, the editor of the site; the [Sombor]({{< relref "gallery/sombor" >}}) album is by Konstantin Stein. More about the places in them: [Bač Fortress and hamam]({{< relref "nearby/bac-fortress" >}}), [Lake Provala]({{< relref "nearby/provala" >}}). Have photos of Vajska yourself? Send them in and we will publish them under your name.
+
+St Petka's Day, the feast of the village church, on 27 October 2026: [St Petka's Day 2026 in Vajska]({{< relref "gallery/petkovdan-2026" >}}).

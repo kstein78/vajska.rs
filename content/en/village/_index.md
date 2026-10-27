@@ -3,7 +3,7 @@ title: About Vajska
 linkTitle: The village
 weight: 10
 kicker: A Danube village
-photo: vajska-illustration
+photo: vajska-sunset-street
 lead: 'A mixed village of Bačka by the Danube: the church of St George in the centre, the kirbaj on 23 April, Lake Provala and the woods of Labudnjača close by.'
 tile: The village, the church of St George and the kirbaj, Labudnjača and Živa
 list_title: More about the village

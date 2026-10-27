@@ -3,7 +3,7 @@ title: O Vajskoj
 linkTitle: Selo
 weight: 10
 kicker: Selo uz Dunav
-photo: vajska-illustration
+photo: vajska-sunset-street
 lead: 'Mješovito bačko selo uz Dunav: crkva svetog Jurja u središtu, kirbaj 23. travnja, jezero Provala i šume Labudnjače nadohvat ruke.'
 tile: Selo, crkva sv. Jurja i kirbaj, Labudnjača i Živa
 list_title: Više o selu

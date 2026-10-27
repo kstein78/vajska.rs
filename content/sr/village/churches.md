@@ -14,7 +14,11 @@ U centru sela stoji **rimokatolička crkva Svetog Đorđa** ([Dnevnik](https://w
 
 Pored [spomen-česme solunskih dobrovoljaca]({{< relref "village/solunci" >}}) i parka gradi se **pravoslavni hram posvećen Svetoj Petki**. U aprilu 2024. gradnja je trajala oko pet godina i finansirala se isključivo dobrovoljnim prilozima. Zvona su postavljena 2023, obezbeđen je novac za krstove, a ono što je preostalo od izgradnje česme preusmereno je na troja vrata hrama. Meštani su tada procenjivali da bi bogosluženja mogla da počnu za oko dve godine ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
 
-Ako je hram u međuvremenu osveštan ili znate kako može da se pomogne gradnji, pišite nam na [seanews62@gmail.com](mailto:seanews62@gmail.com).
+{{< photo key="petkovdan-church-crowd" >}}
+
+Na **Petkovdan, 27. oktobra 2026**, hram je proslavio svoju slavu: sveštenici i meštani dočekali su episkopa hlebom i cvećem, a meštani su ispunili hram. Fotografije i video: [Petkovdan 2026. u Vajskoj]({{< relref "gallery/petkovdan-2026" >}}).
+
+Ako znate kada je hram osveštan ili kako može da se pomogne njegovom uređenju, pišite nam na [seanews62@gmail.com](mailto:seanews62@gmail.com).
 
 ## Izvori
 
