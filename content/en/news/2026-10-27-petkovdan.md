@@ -1,6 +1,6 @@
 ---
 title: 'St Petka''s Day in Vajska: the feast of the village church'
-date: '2026-10-27T21:00:00+01:00'
+date: '2026-10-27T18:00:00+01:00'
 feed: site
 cover: petkovdan-procession
 lead: 'On 27 October Vajska celebrated Petkovdan, the feast of its Orthodox church: the bishop''s welcome, folk costumes and pastries for all. Photos and video by Svetlana Morozova.'

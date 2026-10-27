@@ -1,6 +1,6 @@
 ---
 title: 'Petkovdan u Vajskoj: slava hrama Svete Petke'
-date: '2026-10-27T21:00:00+01:00'
+date: '2026-10-27T18:00:00+01:00'
 feed: site
 cover: petkovdan-procession
 lead: 'Vajska je 27. oktobra proslavila Petkovdan, slavu svog pravoslavnog hrama: doček episkopa, narodne nošnje i kolači za sve. Fotografije i video Svetlane Morozove.'
