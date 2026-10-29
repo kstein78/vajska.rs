@@ -10,7 +10,7 @@ weight: 4
 
 ## Рынок по четвергам
 
-**Четверг — рыночный день.** Центр села в это время полон людей, а когда прилавки сворачивают, быстро затихает ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+**Четверг — рыночный день.** Центр села в это время полон людей, а когда прилавки сворачивают, быстро затихает ([«Дневник»](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Что продают и что нужно знать: [Рынок в Вайске по четвергам]({{< relref "village/market" >}}).
 
 ## Чем живёт село
 

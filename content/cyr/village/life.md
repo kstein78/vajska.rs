@@ -11,7 +11,7 @@ weight: 4
 
 ## Пијаца четвртком
 
-**Четвртак је пијачни дан.** Центар села је тада пун, а кад се тезге покупе, брзо се смири ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+**Четвртак је пијачни дан.** Центар села је тада пун, а кад се тезге покупе, брзо се смири ([Дневник](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Шта се продаје и шта треба знати: [Пијаца у Вајској четвртком]({{< relref "village/market" >}}).
 
 ## Од чега село живи
 

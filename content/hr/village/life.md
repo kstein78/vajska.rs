@@ -10,7 +10,7 @@ Vajska ima oko **2000 stanovnika** i dvadesetak nacionalnosti; odnosi među njim
 
 ## Tržnica četvrtkom
 
-**Četvrtak je tržni dan.** Središte sela tada je puno, a kad se štandovi pokupe, brzo se smiri ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+**Četvrtak je tržni dan.** Središte sela tada je puno, a kad se štandovi pokupe, brzo se smiri ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Što se prodaje i što treba znati: [Tržnica u Vajskoj četvrtkom]({{< relref "village/market" >}}).
 
 ## Od čega selo živi
 

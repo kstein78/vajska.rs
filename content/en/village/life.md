@@ -10,7 +10,7 @@ Vajska has about **2,000 inhabitants** of some twenty nationalities, and relatio
 
 ## Thursday market
 
-**Thursday is market day.** The village centre is busy then and quiets down quickly once the stalls are packed away ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)).
+**Thursday is market day.** The village centre is busy then and quiets down quickly once the stalls are packed away ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). What is sold and what to know: [Thursday market in Vajska]({{< relref "village/market" >}}).
 
 ## What the village lives on
 

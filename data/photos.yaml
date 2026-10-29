@@ -610,3 +610,87 @@ vajska-sunset-cloud:
   alt_cyr: "Ружичасти облак у залазак сунца над белом кућом и баштом у Вајској"
   alt_hr: "Ružičasti oblak u zalazak sunca nad bijelom kućom i vrtom u Vajskoj"
   alt_ru: "Розовое облако на закате над белым домиком и садом в Вайске"
+vajska-market-street:
+  src: img/vajska-market-street.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "The Thursday market in Vajska: clothes on racks and stalls under metal shelters along a village street"
+  alt_sr: "Pijaca u Vajskoj četvrtkom: odeća na čivilucima i tezge pod metalnim nadstrešnicama duž seoske ulice"
+  alt_cyr: "Пијаца у Вајској четвртком: одећа на чивилуцима и тезге под металним надстрешницама дуж сеоске улице"
+  alt_hr: "Tržnica u Vajskoj četvrtkom: odjeća na vješalicama i štandovi pod metalnim nadstrešnicama uz seosku ulicu"
+  alt_ru: "Четверговый рынок в Вайске: одежда на вешалах и прилавки под металлическими навесами вдоль сельской улицы"
+vajska-market-flowers:
+  src: img/vajska-market-flowers.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "A flower seller at the market with grave arrangements of artificial flowers on fir branches, laid out on boxes and a table"
+  alt_sr: "Prodavac cveća na pijaci sa aranžmanima od veštačkog cveća na jelovim granama za groblje, na gajbama i stolu"
+  alt_cyr: "Продавац цвећа на пијаци са аранжманима од вештачког цвећа на јеловим гранама за гробље, на гајбама и столу"
+  alt_hr: "Prodavač cvijeća na tržnici s aranžmanima od umjetnog cvijeća na jelovim granama za groblje, na gajbama i stolu"
+  alt_ru: "Продавец цветов на рынке: композиции из искусственных цветов на еловых ветках для кладбища, на ящиках и столе"
+vajska-market-flower-arrangements:
+  src: img/vajska-market-flower-arrangements.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Close-up of grave arrangements: white dahlias, pink roses and purple chrysanthemums on fir and thuja branches"
+  alt_sr: "Izbliza aranžmani za groblje: bele dalije, roze ruže i ljubičaste hrizanteme na granama jele i tuje"
+  alt_cyr: "Изблиза аранжмани за гробље: беле далије, розе руже и љубичасте хризантеме на гранама јеле и тује"
+  alt_hr: "Izbliza aranžmani za groblje: bijele dalije, ružičaste ruže i ljubičaste krizanteme na granama jele i tuje"
+  alt_ru: "Вблизи композиции для кладбища: белые георгины, розовые розы и лиловые хризантемы на ветках ели и туи"
+vajska-market-cabbage:
+  src: img/vajska-market-cabbage.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Heads of cabbage, a cauliflower and celery roots on a market stall, with bags of homemade noodles behind"
+  alt_sr: "Glavice kupusa, karfiol i korenovi celera na tezgi, iza njih kesice domaćih rezanaca"
+  alt_cyr: "Главице купуса, карфиол и коренови целера на тезги, иза њих кесице домаћих резанаца"
+  alt_hr: "Glavice kupusa, cvjetača i korijeni celera na štandu, iza njih vrećice domaćih rezanaca"
+  alt_ru: "Кочаны капусты, цветная капуста и корни сельдерея на прилавке, за ними пакеты домашней лапши"
+vajska-market-grapes-apples:
+  src: img/vajska-market-grapes-apples.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Dark \"Hamburg\" grapes and crates of apples on a stall, a playground and sports court behind"
+  alt_sr: "Tamno grožđe sorte „Hamburg” i gajbe jabuka na tezgi, iza njih igralište i sportski teren"
+  alt_cyr: "Тамно грожђе сорте „Хамбург” и гајбе јабука на тезги, иза њих игралиште и спортски терен"
+  alt_hr: "Tamno grožđe sorte „Hamburg” i gajbe jabuka na štandu, iza njih igralište i sportski teren"
+  alt_ru: "Тёмный виноград с табличкой «Hamburg» и ящики яблок на прилавке, позади детская и спортивная площадки"
+vajska-market-smoked-meat:
+  src: img/vajska-market-smoked-meat.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "A stall of smoked meats: sausages, bacon and ham hanging from a frame and laid on the table, with tubs of cheese"
+  alt_sr: "Tezga sa suhomesnatim proizvodima: kobasice, slanina i šunka vise sa rama i leže na stolu, uz kutije sira"
+  alt_cyr: "Тезга са сухомеснатим производима: кобасице, сланина и шунка висе са рама и леже на столу, уз кутије сира"
+  alt_hr: "Štand sa suhomesnatim proizvodima: kobasice, slanina i šunka vise s okvira i leže na stolu, uz kutije sira"
+  alt_ru: "Прилавок с копчёностями: колбасы, бекон и окорок висят на раме и лежат на столе, рядом ванночки с сыром"
+vajska-market-beans-nuts:
+  src: img/vajska-market-beans-nuts.jpg
+  author: Svetlana Morozova
+  author_ru: Светлана Морозова
+  author_cyr: Светлана Морозова
+  license: ©
+  temp: false
+  alt: "Bags of beans, hazelnuts, walnuts, poppy seed, homemade noodles and paprika, with parsnips and carrots, in front of a van"
+  alt_sr: "Kese pasulja, lešnika, oraha, maka, domaćih rezanaca i aleve paprike, uz paškanat i šargarepu, ispred kombija"
+  alt_cyr: "Кесе пасуља, лешника, ораха, мака, домаћих резанаца и алеве паприке, уз пашканат и шаргарепу, испред комбија"
+  alt_hr: "Vrećice graha, lješnjaka, oraha, maka, domaćih rezanaca i mljevene paprike, uz pastrnjak i mrkvu, ispred kombija"
+  alt_ru: "Пакеты фасоли, фундука, грецких орехов, мака, домашней лапши и молотой паприки, рядом пастернак и морковь, перед фургоном"
