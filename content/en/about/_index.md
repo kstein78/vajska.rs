@@ -26,3 +26,9 @@ Each site of the network is about one place and speaks to its own readers. **vaj
 ## Write to us
 
 News, corrections, photos, stories of older residents: [seanews62@gmail.com](mailto:seanews62@gmail.com).
+
+## Privacy {#privacy}
+
+The site shows no advertising. With your permission (the banner on your first visit) we count visits with **Google Analytics 4**: which pages are read, from which country and type of device, and how visitors found the site. Google sets cookies and receives this usage data; we see only totals, sell nothing and use nothing for ads. Until you press “Allow”, Google Analytics sets no cookies. You can change your choice at any time with the “Cookie settings” link at the bottom of every page.
+
+Content from other services (videos, the weather forecast) loads only after you click to start it. The maps load map tiles from OpenStreetMap servers.

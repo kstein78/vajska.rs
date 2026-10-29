@@ -26,3 +26,9 @@ Svaki sajt mreže piše o jednom mestu i obraća se svojoj publici. **vajska.rs*
 ## Pišite nam
 
 Vesti, ispravke, fotografije, priče starijih meštana: [seanews62@gmail.com](mailto:seanews62@gmail.com).
+
+## Privatnost {#privacy}
+
+Na sajtu nema reklama. Uz vašu dozvolu (baner pri prvoj poseti) brojimo posete pomoću **Google Analytics 4**: koje se stranice čitaju, iz koje zemlje i sa kog uređaja, i kako su posetioci našli sajt. Google postavlja kolačiće i prima te podatke; mi vidimo samo zbirne brojeve, ništa ne prodajemo i ništa ne koristimo za reklame. Dok ne pritisnete „Dozvoli”, Google Analytics ne postavlja kolačiće. Izbor možete promeniti kad god želite preko linka „Podešavanja kolačića” na dnu svake stranice.
+
+Sadržaj drugih servisa (video, vremenska prognoza) učitava se tek kad ga pokrenete klikom. Mape učitavaju podloge sa servera OpenStreetMap-a.

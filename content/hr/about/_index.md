@@ -26,3 +26,9 @@ Svaka stranica mreže piše o jednom mjestu i obraća se svojoj publici. **vajsk
 ## Pišite nam
 
 Vijesti, ispravci, fotografije, priče starijih mještana: [seanews62@gmail.com](mailto:seanews62@gmail.com).
+
+## Privatnost {#privacy}
+
+Na stranici nema reklama. Uz vaše dopuštenje (natpis pri prvom posjetu) brojimo posjete pomoću **Google Analyticsa 4**: koje se stranice čitaju, iz koje zemlje i s kojeg uređaja te kako su posjetitelji našli stranicu. Google postavlja kolačiće i prima te podatke; mi vidimo samo zbirne brojeve, ništa ne prodajemo i ništa ne koristimo za reklame. Dok ne pritisnete „Dopusti”, Google Analytics ne postavlja kolačiće. Izbor možete promijeniti kad god želite putem poveznice „Postavke kolačića” na dnu svake stranice.
+
+Sadržaj drugih servisa (video, vremenska prognoza) učitava se tek kad ga pokrenete klikom. Karte učitavaju podloge s poslužitelja OpenStreetMapa.
