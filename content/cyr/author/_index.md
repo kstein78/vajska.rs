@@ -10,6 +10,7 @@ summary: 'Светлана Морозова, уредница сајта: нов
 tile: Ко уређује сајт и како да је контактирате
 hide_children: true
 portrait: svetlana-portrait
+cover: vajska-sunset-cloud
 same_as:
 - https://blitz.plus/svetlana-morozova
 ---

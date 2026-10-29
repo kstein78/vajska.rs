@@ -5,6 +5,7 @@ kicker: Istorija
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'Istorija Vajske: poreklo imena, prvi pomen 1338, solunski dobrovoljci posle Prvog svetskog rata, stara imena sela, Šokci uz Dunav i skela Vajska – Borovo 1991.'
+photo: vajska-map-1914
 ---
 
 Pisanih izvora o Vajskoj na internetu ima malo, pa ovu stranicu gradimo postepeno, uz pomoć meštana. Ovo je ono što je za sada potvrđeno.

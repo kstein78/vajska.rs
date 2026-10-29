@@ -4,6 +4,7 @@ linkTitle: Hramovi
 kicker: Selo · crkve
 summary: Katolička crkva Svetog Đorđa u centru sela i pravoslavni hram Svete Petke, koji meštani grade dobrovoljnim prilozima.
 weight: 3
+cover: petkovdan-church-crowd
 ---
 
 ## Crkva Svetog Đorđa

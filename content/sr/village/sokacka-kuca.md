@@ -4,6 +4,7 @@ linkTitle: Šokačka kuća
 kicker: Selo · etno-kuća
 summary: 'Stara šokačka kuća koju je HKUD „Antun Sorgg” uredio kao etno-kuću: nošnje starije od sto godina, razboj i preslice, škrinja iz 1884. i sekcija „Vridne ruke” sa starim receptima.'
 weight: 5
+cover: sokacka-kuca-card
 ---
 
 U Vajskoj od **jula 2019.** radi **Šokačka kuća**, sedište hrvatskog kulturno-umetničkog društva **„Antun Sorgg”**. Kuću je društvo kupilo uz pomoć Vukovarsko-sremske županije i Hrvatskog nacionalnog veća, na inicijativu potpredsednika veća Željka Pakledinca. Danas je mesto okupljanja, čuvanja nasleđa i nastupa Šokaca s ovog dela Podunavlja ([ZKVH](https://www.zkvh.org.rs/etno-kuce-post/etno-kuce/sokacka-kuca-vajska)).

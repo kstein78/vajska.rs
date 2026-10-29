@@ -6,7 +6,7 @@ kicker: Rubrika Svetlane Morozove
 lead: 'Šta se kuva u Vajskoj i Bačkoj: domaći recepti meštana, bački kulen i kobasice, jela sa Dunava i iz bašte. Rubriku uređuje Svetlana Morozova, autorka knjiga o kuhinji juga Rusije.'
 tile: Recepti Vajske i Bačke
 author: svetlana
-photo: kitchen-placeholder
+photo: vajska-market-smoked-meat
 ---
 
 Ovde će Svetlana Morozova objavljivati recepte i priče o hrani Vajske i okoline: šta se sprema za kirbaj, šta se kuva od ribe iz Dunava i Provale, kako se pravi zimnica.

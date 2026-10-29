@@ -9,7 +9,7 @@ coords:
 - 19.10209
 facts:
   distance: Oko 5 minuta kolima (3,0 km)
-photo: nearby-bodjani
+photo: bodjani-commons
 ---
 
 Manastir Bođani je na pet minuta od Vajske. Po predanju, osnovao ga je 1478. trgovac **Bogdan** iz Dalmacije: oslepeo je kod Dunava, progledao kod obližnjeg izvora i iz zahvalnosti podigao manastir, koji po njemu nosi ime ([Vikipedija](https://en.wikipedia.org/wiki/Bo%C4%91ani_Monastery)).

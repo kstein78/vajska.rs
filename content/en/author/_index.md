@@ -9,6 +9,7 @@ summary: 'Svetlana Morozova, editor of the site: a journalist since 1999, author
 tile: Who edits the site and how to reach her
 hide_children: true
 portrait: svetlana-portrait
+cover: vajska-sunset-cloud
 same_as:
 - https://blitz.plus/svetlana-morozova
 ---

@@ -4,6 +4,7 @@ linkTitle: Maps
 kicker: History · maps 1910–1976
 weight: 6
 summary: 'Vajska on old and military maps: Austro-Hungarian maps of 1910 and 1914, before Lake Provala existed, and the Yugoslav People''s Army topographic maps at 1:25,000, 1:100,000 and 1:200,000 from the 1970s.'
+cover: jna25-vajska
 ---
 
 Maps show how the land around Vajska has changed: the Danube with its side arms and marshes, the Bođani woods and the spot where Lake Provala later formed. A map of today's village with every place on this site is on the [Map]({{< relref "map" >}}) page.

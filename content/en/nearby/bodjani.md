@@ -9,7 +9,7 @@ coords:
 - 19.10209
 facts:
   distance: About 5 minutes by car (3.0 km)
-photo: nearby-bodjani
+photo: bodjani-commons
 ---
 
 Bođani Monastery is five minutes from Vajska. According to legend it was founded in 1478 by **Bogdan**, a merchant from Dalmatia, who went blind near the Danube, regained his sight at a nearby spring and built the monastery in gratitude; it is named after him ([Wikipedia](https://en.wikipedia.org/wiki/Bo%C4%91ani_Monastery)).

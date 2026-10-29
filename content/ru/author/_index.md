@@ -9,6 +9,7 @@ summary: 'Светлана Морозова, редактор сайта: жур
 tile: Кто ведёт сайт и как с ней связаться
 hide_children: true
 portrait: svetlana-portrait
+cover: vajska-sunset-cloud
 same_as:
 - https://blitz.plus/svetlana-morozova
 ---

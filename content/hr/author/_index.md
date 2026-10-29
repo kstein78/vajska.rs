@@ -9,6 +9,7 @@ summary: 'Svetlana Morozova, urednica stranice: novinarka od 1999., autorica ser
 tile: Tko uređuje stranicu i kako je kontaktirati
 hide_children: true
 portrait: svetlana-portrait
+cover: vajska-sunset-cloud
 same_as:
 - https://blitz.plus/svetlana-morozova
 ---

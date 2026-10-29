@@ -9,7 +9,7 @@ coords:
 - 19.30055
 facts:
   distance: Oko 24 minuta kolima (17,1 km)
-photo: nearby-selenca
+photo: selenca-commons
 ---
 
 Selenča se prvi put pominje 1590, a 1758. naselili su je Slovaci sa severa Ugarske. Evangelička crkva je iz 1870. U selu radi slovačka osnovna škola i KUS „Jan Kolar”, osnovano 1948 ([Vikipedija](https://en.wikipedia.org/wiki/Selen%C4%8Da)).

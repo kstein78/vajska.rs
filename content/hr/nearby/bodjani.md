@@ -9,7 +9,7 @@ coords:
 - 19.10209
 facts:
   distance: Oko 5 minuta automobilom (3,0 km)
-photo: nearby-bodjani
+photo: bodjani-commons
 ---
 
 Pravoslavni samostan Bođani udaljen je pet minuta od Vajske. Prema predaji osnovao ga je 1478. trgovac **Bogdan** iz Dalmacije: oslijepio je kraj Dunava, progledao kod obližnjeg izvora i iz zahvalnosti podigao samostan, koji po njemu nosi ime ([Wikipedija](https://en.wikipedia.org/wiki/Bo%C4%91ani_Monastery)).

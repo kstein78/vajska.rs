@@ -4,6 +4,7 @@ linkTitle: Salonika volunteers
 kicker: History · after the First World War
 summary: After the First World War 176 Orthodox families of Salonika front volunteers settled in Vajska. Their names are on a memorial fountain in the village centre, where a memorial service is held every 24 May.
 weight: 2
+cover: solunci-fountain-icon
 ---
 
 Before the First World War Vajska was a Catholic village of Hungarians, Germans and Croats. After the war, a little over a hundred years ago, **176 Orthodox families of volunteers from the Salonika front** (*solunski dobrovoljci*, "Solunci") settled here ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). This is how Vajska got its Orthodox community, which is now building its own church ([Churches of Vajska]({{< relref "village/churches" >}})).

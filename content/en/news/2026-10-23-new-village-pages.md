@@ -2,7 +2,7 @@
 title: 'New pages: the Salonika volunteers, churches and village life'
 date: '2026-10-23T10:00:00+02:00'
 feed: site
-cover: vajska-illustration
+cover: solunci-plaque-names
 lead: 'New pages about Vajska based on a Dnevnik report: the Salonika volunteers and their memorial fountain, the churches of St George and St Petka, the market, the fields and the clubs.'
 related:
 - village/solunci

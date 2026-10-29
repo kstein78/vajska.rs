@@ -4,6 +4,7 @@ linkTitle: Village life
 kicker: The village · today
 summary: 'Thursday market, maize, soya and wheat in the fields, vegetables from polytunnels, the St Sava cultural society, the Šaran fishing club and the volunteer fire brigade: how Vajska lives today.'
 weight: 4
+cover: vajska-market-cabbage
 ---
 
 Vajska has about **2,000 inhabitants** of some twenty nationalities, and relations between them are excellent, says **Momir Svorcan**, secretary of the local community ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). These figures are from April 2024.

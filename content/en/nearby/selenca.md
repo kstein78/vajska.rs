@@ -9,7 +9,7 @@ coords:
 - 19.30055
 facts:
   distance: About 24 minutes by car (17.1 km)
-photo: nearby-selenca
+photo: selenca-commons
 ---
 
 Selenča is first mentioned in 1590; in 1758 it was settled by Slovaks from northern Hungary. The Evangelical church dates from 1870. The village has a Slovak-language primary school and the cultural society "Jan Kolár", founded in 1948 ([Wikipedia](https://en.wikipedia.org/wiki/Selen%C4%8Da)).

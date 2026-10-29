@@ -9,7 +9,7 @@ coords:
 - 19.12931
 facts:
   distance: About 16 minutes by car (10.5 km)
-photo: nearby-plavna
+photo: plavna-commons
 ---
 
 Plavna is a mixed village of Bač municipality, Hungarian *Palona*, German *Plawingen*, with the Catholic church of St James ([Wikipedia](https://en.wikipedia.org/wiki/Plavna)).

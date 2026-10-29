@@ -4,6 +4,7 @@ linkTitle: Crkve
 kicker: Selo · crkve
 summary: Katolička crkva Svetoga Jurja u središtu sela i pravoslavni hram Svete Petke, koji mještani grade dobrovoljnim prilozima.
 weight: 3
+cover: petkovdan-church-crowd
 ---
 
 ## Crkva Svetoga Jurja

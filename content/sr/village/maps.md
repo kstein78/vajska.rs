@@ -4,6 +4,7 @@ linkTitle: Karte
 kicker: Istorija · karte 1910–1976
 weight: 6
 summary: 'Vajska na starim i vojnim kartama: austrougarske karte iz 1910. i 1914, kada jezera Provala još nije bilo, i topografske karte JNA 1:25.000, 1:100.000 i 1:200.000 iz sedamdesetih godina.'
+cover: jna25-vajska
 ---
 
 Na kartama se vidi kako se okolina Vajske menjala: Dunav sa rukavcima i barama, šume Bođana i mesto gde je kasnije nastalo jezero Provala. Kartu današnjeg sela sa svim mestima sa ovog sajta naći ćete na stranici [Mapa]({{< relref "map" >}}).

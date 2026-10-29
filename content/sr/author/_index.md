@@ -9,6 +9,7 @@ summary: 'Svetlana Morozova, urednica sajta: novinarka od 1999, autorka serije k
 tile: Ko uređuje sajt i kako da je kontaktirate
 hide_children: true
 portrait: svetlana-portrait
+cover: vajska-sunset-cloud
 same_as:
 - https://blitz.plus/svetlana-morozova
 ---

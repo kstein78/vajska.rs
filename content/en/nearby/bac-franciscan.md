@@ -9,7 +9,7 @@ coords:
 - 19.23243
 facts:
   distance: About 17 minutes by car (11.6 km)
-photo: nearby-bac-franciscan
+photo: bac-franciscan-commons
 ---
 
 The Franciscan monastery in Bač is dedicated to the Assumption of Mary. Its architecture combines Gothic, Romanesque and Classicist styles, and the church has a working pipe organ. The monastery museum reopened in June 2019 ([Wikipedia: Bač](https://en.wikipedia.org/wiki/Ba%C4%8D,_Serbia)).

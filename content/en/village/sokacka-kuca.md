@@ -4,6 +4,7 @@ linkTitle: Šokac house
 kicker: The village · ethno house
 summary: 'An old Šokac house that the Antun Sorgg Croatian cultural society has turned into an ethno house: costumes over a hundred years old, a loom and distaffs, a chest from 1884, and the “Vridne ruke” group cooking from old family recipes.'
 weight: 5
+cover: sokacka-kuca-card
 ---
 
 Since **July 2019** Vajska has had its **Šokačka kuća** (Šokac house), the home of the Croatian cultural society **“Antun Sorgg”**. The society bought it with support from Croatia's Vukovar-Srijem County and the Croatian National Council, at the initiative of the council's vice-president Željko Pakledinac. It is a meeting place, a heritage house and a stage for the Šokci, the Catholic Croats of this part of the Danube ([ZKVH](https://www.zkvh.org.rs/etno-kuce-post/etno-kuce/sokacka-kuca-vajska)).

@@ -9,7 +9,7 @@ coords:
 - 19.12931
 facts:
   distance: Около 16 минут на машине (10,5 км)
-photo: nearby-plavna
+photo: plavna-commons
 ---
 
 Плавна — многонациональное село общины Бач, по-венгерски *Palona*, по-немецки *Plawingen*, с католическим храмом Святого Иакова ([Википедия](https://en.wikipedia.org/wiki/Plavna)).

@@ -5,6 +5,7 @@ kicker: History
 author: svetlana
 date: '2026-10-16T10:00:00+02:00'
 summary: 'History of Vajska: where the name comes from, the first record in 1338, the Salonika volunteers after the First World War, old names, the Šokci on the Danube and the Vajska–Borovo ferry of 1991.'
+photo: vajska-map-1914
 ---
 
 Written sources on Vajska are scarce online, so we are building this page step by step with the help of residents. This is what is confirmed so far.

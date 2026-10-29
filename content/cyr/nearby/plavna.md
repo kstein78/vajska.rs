@@ -10,7 +10,7 @@ coords:
 - 19.12931
 facts:
   distance: Око 16 минута колима (10,5 км)
-photo: nearby-plavna
+photo: plavna-commons
 ---
 
 Плавна је мешовито село општине Бач, мађарски *Palona*, немачки *Plawingen*, са католичком црквом Светог Јакова ([Википедија](https://en.wikipedia.org/wiki/Plavna)).

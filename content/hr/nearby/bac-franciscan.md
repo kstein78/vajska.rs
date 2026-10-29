@@ -9,7 +9,7 @@ coords:
 - 19.23243
 facts:
   distance: Oko 17 minuta automobilom (11,6 km)
-photo: nearby-bac-franciscan
+photo: bac-franciscan-commons
 ---
 
 Franjevački samostan u Baču posvećen je Uznesenju Marijinu. U njegovoj arhitekturi spojeni su gotika, romanika i klasicizam, a u crkvi su orgulje koje rade. Samostanski muzej ponovno je otvoren u lipnju 2019. ([Wikipedija: Bač](https://en.wikipedia.org/wiki/Ba%C4%8D,_Serbia)).

@@ -4,6 +4,7 @@ linkTitle: Život u selu
 kicker: Selo · danas
 summary: 'Četvrtkom pijaca, kukuruz, soja i pšenica na poljima, povrće iz plastenika, KUD „Sveti Sava”, ribolovačko društvo „Šaran” i dobrovoljni vatrogasci: kako Vajska živi danas.'
 weight: 4
+cover: vajska-market-cabbage
 ---
 
 Vajska ima oko **2.000 stanovnika** i dvadesetak nacionalnosti; odnosi među njima su, kako kaže sekretar Mesne zajednice **Momir Svorcan**, odlični ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Podaci su iz aprila 2024.

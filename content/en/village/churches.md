@@ -4,6 +4,7 @@ linkTitle: Churches
 kicker: The village · churches
 summary: The Catholic church of St George in the village centre, and the Orthodox church of St Petka that the villagers are building with donations.
 weight: 3
+cover: petkovdan-church-crowd
 ---
 
 ## St George's church

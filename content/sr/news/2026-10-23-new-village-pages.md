@@ -2,7 +2,7 @@
 title: 'Nove stranice: solunci, hramovi i život sela'
 date: '2026-10-23T10:00:00+02:00'
 feed: site
-cover: vajska-illustration
+cover: solunci-plaque-names
 lead: 'Na sajtu su nove stranice o Vajskoj po reportaži Dnevnika: solunski dobrovoljci i spomen-česma, hramovi Svetog Đorđa i Svete Petke, pijaca, polja i udruženja.'
 related:
 - village/solunci

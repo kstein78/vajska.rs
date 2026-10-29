@@ -9,7 +9,7 @@ coords:
 - 19.12931
 facts:
   distance: Oko 16 minuta kolima (10,5 km)
-photo: nearby-plavna
+photo: plavna-commons
 ---
 
 Plavna je mešovito selo opštine Bač, mađarski *Palona*, nemački *Plawingen*, sa katoličkom crkvom Svetog Jakova ([Vikipedija](https://en.wikipedia.org/wiki/Plavna)).

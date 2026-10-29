@@ -1,1 +1,4 @@
-{}
+# Card photos for pages without a photo of their own (key = content path without /_index.md).
+events: petkovdan-welcome-bread
+useful: vajska-autumn-sidewalk
+about: danube-sandy-bank

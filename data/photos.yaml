@@ -694,3 +694,68 @@ vajska-market-beans-nuts:
   alt_cyr: "Кесе пасуља, лешника, ораха, мака, домаћих резанаца и алеве паприке, уз пашканат и шаргарепу, испред комбија"
   alt_hr: "Vrećice graha, lješnjaka, oraha, maka, domaćih rezanaca i mljevene paprike, uz pastrnjak i mrkvu, ispred kombija"
   alt_ru: "Пакеты фасоли, фундука, грецких орехов, мака, домашней лапши и молотой паприки, рядом пастернак и морковь, перед фургоном"
+vajska-map-1914:
+  src: "img/vajska-map-1914.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Vukovar_BV042104285.jpg"
+  author: "K.u.k. Militärgeographisches Institut, Wien; scan IOS Regensburg (GeoPortOst)"
+  license: "public domain"
+  temp: false
+  alt: "Vajska (\"Vajszka\") on the Austro-Hungarian special map of 1914: the village by the Danube marshes, Bođani Monastery (\"Kloster Bogyán\") and Bođani to the south"
+  alt_sr: "Vajska („Vajszka”) na austrougarskoj specijalnoj karti iz 1914: selo uz dunavske bare, manastir Bođani („Kloster Bogyán”) i Bođani na jugu"
+  alt_cyr: "Вајска („Vajszka”) на аустроугарској специјалној карти из 1914: село уз дунавске баре, манастир Бођани („Kloster Bogyán”) и Бођани на југу"
+  alt_hr: "Vajska („Vajszka”) na austro-ugarskoj specijalnoj karti iz 1914.: selo uz dunavske bare, manastir Bođani („Kloster Bogyán”) i Bođani na jugu"
+  alt_ru: "Вайска («Vajszka») на австро-венгерской специальной карте 1914 года: село у дунайских болот, монастырь Боджани («Kloster Bogyán») и Боджани к югу"
+sokacka-kuca-card:
+  src: "img/sokacka-kuca-card.jpg"
+  author: "vajska.rs"
+  license: "ilustracija / illustration"
+  temp: false
+  alt: "Line drawings of a Šokac house, a distaff with a spindle and a painted dowry chest"
+  alt_sr: "Crteži šokačke kuće, preslice sa vretenom i oslikane škrinje za miraz"
+  alt_cyr: "Цртежи шокачке куће, преслице са вретеном и осликане шкриње за мираз"
+  alt_hr: "Crteži šokačke kuće, preslice s vretenom i oslikane škrinje za miraz"
+  alt_ru: "Рисунки шокачкого дома, прялки с веретеном и расписного сундука для приданого"
+bac-franciscan-commons:
+  src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Franjeva%C4%8Dki_samostan_u_Ba%C4%8Du.jpg/1280px-Franjeva%C4%8Dki_samostan_u_Ba%C4%8Du.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Franjeva%C4%8Dki_samostan_u_Ba%C4%8Du.jpg"
+  author: "CrniBombarder!!!"
+  license: "CC BY-SA 4.0"
+  temp: false
+  alt: "The Franciscan monastery in Bač with its tall church tower"
+  alt_sr: "Franjevački samostan u Baču sa visokim crkvenim tornjem"
+  alt_cyr: "Фрањевачки самостан у Бачу са високим црквеним торњем"
+  alt_hr: "Franjevački samostan u Baču s visokim crkvenim tornjem"
+  alt_ru: "Францисканский монастырь в Баче с высокой колокольней"
+bodjani-commons:
+  src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wiki.Vojvodina_V_Bo%C4%91ani_Monastery_373.jpg/1280px-Wiki.Vojvodina_V_Bo%C4%91ani_Monastery_373.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Wiki.Vojvodina_V_Bo%C4%91ani_Monastery_373.jpg"
+  author: "Ванилица (Vanilica)"
+  license: "CC BY-SA 4.0"
+  temp: false
+  alt: "Bođani Monastery: the church with its baroque bell tower and the monastery buildings"
+  alt_sr: "Manastir Bođani: crkva sa baroknim zvonikom i manastirski konaci"
+  alt_cyr: "Манастир Бођани: црква са барокним звоником и манастирски конаци"
+  alt_hr: "Manastir Bođani: crkva s baroknim zvonikom i samostanske zgrade"
+  alt_ru: "Монастырь Боджани: церковь с барочной колокольней и монастырские корпуса"
+selenca-commons:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Selen%C4%8Da%2C_Evangelical_%28Slovak%29_Church.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Selen%C4%8Da,_Evangelical_(Slovak)_Church.jpg"
+  author: "Sors bona"
+  license: "public domain"
+  temp: false
+  alt: "The Slovak Evangelical church in Selenča"
+  alt_sr: "Slovačka evangelička crkva u Selenči"
+  alt_cyr: "Словачка евангеличка црква у Селенчи"
+  alt_hr: "Slovačka evangelička crkva u Selenči"
+  alt_ru: "Словацкая евангелическая церковь в Селенче"
+plavna-commons:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Plavna%2C_Catholic_Church.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Plavna,_Catholic_Church.jpg"
+  author: "Wikimedia Commons"
+  license: "public domain"
+  temp: false
+  alt: "The Catholic church in Plavna"
+  alt_sr: "Katolička crkva u Plavni"
+  alt_cyr: "Католичка црква у Плавни"
+  alt_hr: "Katolička crkva u Plavni"
+  alt_ru: "Католическая церковь в Плавне"

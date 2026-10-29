@@ -2,7 +2,7 @@
 title: 'Nove stranice: solunci, crkve i život sela'
 date: '2026-10-23T10:00:00+02:00'
 feed: site
-cover: vajska-illustration
+cover: solunci-plaque-names
 lead: 'Na stranici su nove stranice o Vajskoj prema reportaži Dnevnika: solunski dobrovoljci i spomen-česma, crkve Svetoga Jurja i Svete Petke, tržnica, polja i udruge.'
 related:
 - village/solunci

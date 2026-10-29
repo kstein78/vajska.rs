@@ -4,6 +4,7 @@ linkTitle: Solunci
 kicker: Istorija · posle Prvog svetskog rata
 summary: Posle Prvog svetskog rata u Vajsku se doselilo 176 pravoslavnih porodica solunskih dobrovoljaca. Njihova imena danas stoje na spomen-česmi u centru sela, gde se svakog 24. maja služi parastos.
 weight: 2
+cover: solunci-fountain-icon
 ---
 
 Pre Prvog svetskog rata Vajsku su naseljavali katolici: Mađari, Nemci i Hrvati. Posle rata, pre nešto više od sto godina, u selo se doselilo **176 pravoslavnih porodica solunskih dobrovoljaca** ([Dnevnik](https://www.dnevnik.rs/vojvodina/foto-dnevnik-u-selu-kraj-vode-vajska-prirodno-jezero-provala-na-ponos-svih-mestana-22-04)). Tako je Vajska dobila pravoslavnu zajednicu, koja danas gradi svoj hram ([Hramovi Vajske]({{< relref "village/churches" >}})).
