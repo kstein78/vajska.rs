@@ -40,6 +40,9 @@ jobs:
       - name: SEO check
         run: python3 themes/selo/scripts/seo_check.py public
 
+      - name: Card photos (warn when two cards on one page show the same photo)
+        run: python3 themes/selo/scripts/card_dups.py public
+
   # The live site is served by the shared Hetzner server (engine: hosting/). It checks GitHub every
   # minute and rebuilds by itself; this job only confirms that vajska.rs serves this commit.
   # Until the domain points at the server it just notes that and passes.
