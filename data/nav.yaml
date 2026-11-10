@@ -29,6 +29,7 @@ more:
   - path: author
 direct:
 - path: news
+- path: gallery
 - path: map
 categories:
   nature:
