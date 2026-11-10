@@ -1,6 +1,6 @@
 ---
 title: '«Бачки двор» на Провале работает и в ноябре'
-date: '2026-11-10T21:30:00+01:00'
+date: '2026-11-10T21:00:00+01:00'
 feed: local
 author: kosta
 cover: backi-dvor-castle-side
