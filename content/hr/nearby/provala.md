@@ -16,8 +16,12 @@ Jezero Provala udaljeno je oko kilometar od sela, prema Bođanima. Nastalo je ka
 
 Ljeti ovdje ima uređena pješčana plaža sa suncobranima, kabinama i tuševima, kamp i restoran. Spasilačke službe nema, kupanje je na vlastitu odgovornost ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+Na obali je motel i restoran „Bački dvor” u zgradi u obliku dvorca. Radi svaki dan, radnim danom od 10, vikendom od 8 do 22 h (obavijest na vratima, 10. 11. 2026.), porcije su ogromne: [Bački dvor na provala.rs](https://provala.rs/hr/rest/backi-dvor/).
+
+{{< photos "backi-dvor-castle-side backi-dvor-dinner" >}}
+
 Sve o kupanju, ribolovu, smještaju i prirodi jezera nalazi se na našoj sestrinskoj stranici **[provala.rs](https://provala.rs/hr/)**.
 
 Vrijeme vožnje iz Vajske je okvirno, izračunato prema podacima [OpenStreetMap](https://www.openstreetmap.org/copyright).
 
-{{< photos "provala-swan-autumn provala-summer-bathers" >}}
+{{< photos "provala-swan-autumn provala-swans-november provala-summer-bathers" >}}

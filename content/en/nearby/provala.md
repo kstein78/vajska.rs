@@ -16,8 +16,12 @@ Lake Provala lies about a kilometre from the village, towards Bođani. It formed
 
 In summer there is a sandy beach with parasols, changing cabins and showers, a campsite and a restaurant. There is no lifeguard; you swim at your own risk ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+On the shore is the Bački dvor motel and restaurant, in a castle-style building. It is open every day, from 10:00 on weekdays and 8:00 at weekends, until 22:00 (notice on the door, 10 November 2026), and the portions are huge: [Bački dvor on provala.rs](https://provala.rs/en/rest/backi-dvor/).
+
+{{< photos "backi-dvor-castle-side backi-dvor-dinner" >}}
+
 Everything about swimming, fishing, places to stay and the lake's nature is on our sister site **[provala.rs](https://provala.rs/en/)**.
 
 Driving times from Vajska are approximate, calculated from [OpenStreetMap](https://www.openstreetmap.org/copyright) data.
 
-{{< photos "provala-swan-autumn provala-summer-bathers" >}}
+{{< photos "provala-swan-autumn provala-swans-november provala-summer-bathers" >}}

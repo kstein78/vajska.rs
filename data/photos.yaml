@@ -759,3 +759,39 @@ plavna-commons:
   alt_cyr: "Католичка црква у Плавни"
   alt_hr: "Katolička crkva u Plavni"
   alt_ru: "Католическая церковь в Плавне"
+backi-dvor-castle-side:
+  src: img/backi-dvor-castle-side.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Bački dvor from the side: two castle wings with towers, a covered terrace with wicker chairs and a street lamp"
+  alt_sr: "Bački dvor sa strane: dva krila zamka sa kulama, natkrivena terasa sa pletenim stolicama i fenjer"
+  alt_cyr: "Бачки двор са стране: два крила замка са кулама, наткривена тераса са плетеним столицама и фењер"
+  alt_hr: "Bački dvor sa strane: dva krila dvorca s kulama, natkrivena terasa s pletenim stolcima i ulična svjetiljka"
+  alt_ru: "«Бачки двор» сбоку: два крыла замка с башенками, крытая терраса с плетёными креслами и фонарь"
+backi-dvor-dinner:
+  src: img/backi-dvor-dinner.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Lunch at Bački dvor: meat baked with peppers, mushrooms, carrots and potato wedges in a casserole dish, and a Greek salad"
+  alt_sr: "Ručak u Bačkom dvoru: meso pečeno sa paprikom, pečurkama, šargarepom i krompirom u posudi, i grčka salata"
+  alt_cyr: "Ручак у Бачком двору: месо печено са паприком, печуркама, шаргарепом и кромпиром у посуди, и грчка салата"
+  alt_hr: "Ručak u Bačkom dvoru: meso pečeno s paprikom, gljivama, mrkvom i krumpirom u posudi, i grčka salata"
+  alt_ru: "Обед в «Бачком дворе»: мясо, запечённое с перцем, шампиньонами, морковью и картофелем, и греческий салат"
+provala-swans-november:
+  src: img/provala-swans-november.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: ©
+  temp: false
+  alt: "Two white swans and a grey young swan on Lake Provala in November"
+  alt_sr: "Dva bela labuda i sivi mladi labud na jezeru Provala u novembru"
+  alt_cyr: "Два бела лабуда и сиви млади лабуд на језеру Провала у новембру"
+  alt_hr: "Dva bijela labuda i sivi mladi labud na jezeru Provala u studenom"
+  alt_ru: "Два белых лебедя и серый молодой лебедь на озере Провала в ноябре"

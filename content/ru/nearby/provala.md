@@ -16,8 +16,12 @@ photo: provala-autumn-lake
 
 Летом здесь оборудованный песчаный пляж с зонтиками, кабинками и душами, кемпинг и ресторан. Спасателей нет, купание на свой страх и риск ([Vojvodina Travel](https://vojvodina.travel/en/experiences/lake-provala-vajska/)).
 
+На берегу — мотель и ресторан «Бачки двор» в здании-замке. Работает каждый день: по будням с 10, в выходные с 8 до 22 часов (объявление на двери, 10.11.2026), порции огромные: [«Бачки двор» на provala.rs](https://provala.rs/ru/rest/backi-dvor/).
+
+{{< photos "backi-dvor-castle-side backi-dvor-dinner" >}}
+
 Всё о купании, рыбалке, жилье и природе озера — на нашем соседнем сайте **[provala.rs](https://provala.rs/ru/)**.
 
 Время в пути из Вайски примерное, рассчитано по данным [OpenStreetMap](https://www.openstreetmap.org/copyright).
 
-{{< photos "provala-swan-autumn provala-summer-bathers" >}}
+{{< photos "provala-swan-autumn provala-swans-november provala-summer-bathers" >}}
