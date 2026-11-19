@@ -8,7 +8,7 @@ cover: card-storm-wind
 lead: 'The RHMZ issued an urgent warning on 19 November: this evening a cold front will bring storm and hurricane-force gusts of westerly and north-westerly wind, 80 to 110 km/h. Bačka, and with it Vajska and the whole of Bač municipality, is under the red alert, the highest level. Here is how to get your house, yard and boat ready before evening.'
 ---
 
-On Thursday, 19 November, at 9:50 the Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent weather warning and sent emergency SMS messages to people. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia.
+On Thursday, 19 November, at 9:10 the Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent weather warning and sent emergency SMS messages to people. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia.
 
 The **red** alert ("particularly dangerous weather that can cause great material damage") covers Belgrade, Srem, Banat and **Bačka**. Vajska lies on the open plain by the Danube, where nothing stops a westerly wind, and the poplars and willows of the riverside forests, along the embankment and around Provala break and fall easily.
 

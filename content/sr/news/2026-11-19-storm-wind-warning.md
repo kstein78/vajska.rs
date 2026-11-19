@@ -8,7 +8,7 @@ cover: card-storm-wind
 lead: 'RHMZ je 19. novembra izdao hitno upozorenje: večeras će hladni front doneti olujne i orkanske udare zapadnog i severozapadnog vetra, od 80 do 110 km/h. Bačka, a sa njom Vajska i cela opština Bač, je pod crvenim alarmom, najvišim nivoom. Evo kako pripremiti kuću, dvorište i čamac do večeri.'
 ---
 
-U četvrtak, 19. novembra, u 9.50 Republički hidrometeorološki zavod (RHMZ) izdao je hitno meteorološko upozorenje i poslao hitne SMS poruke građanima. **Večeras** se, sa prolaskom hladnog fronta, u Vojvodini, Beogradu, zapadnoj i centralnoj Srbiji očekuju **olujni i orkanski udari zapadnog i severozapadnog vetra od 80 do 110 km/h**.
+U četvrtak, 19. novembra, u 9.10 Republički hidrometeorološki zavod (RHMZ) izdao je hitno meteorološko upozorenje i poslao hitne SMS poruke građanima. **Večeras** se, sa prolaskom hladnog fronta, u Vojvodini, Beogradu, zapadnoj i centralnoj Srbiji očekuju **olujni i orkanski udari zapadnog i severozapadnog vetra od 80 do 110 km/h**.
 
 **Crveni** alarm („naročito opasne vremenske pojave koje mogu prouzrokovati veliku materijalnu štetu“) važi za Beograd, Srem, Banat i **Bačku**. Vajska leži na otvorenoj ravnici uz Dunav, gde vetar sa zapada nema šta da zaustavi, a topole i vrbe u priobalnim šumama, uz nasip i oko Provale lako se lome i obaraju.
 
