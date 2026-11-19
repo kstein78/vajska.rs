@@ -795,3 +795,13 @@ provala-swans-november:
   alt_cyr: "Два бела лабуда и сиви млади лабуд на језеру Провала у новембру"
   alt_hr: "Dva bijela labuda i sivi mladi labud na jezeru Provala u studenom"
   alt_ru: "Два белых лебедя и серый молодой лебедь на озере Провала в ноябре"
+card-storm-wind:
+  src: img/card-storm-wind.jpg
+  author: vajska.rs
+  license: ilustracija / illustration
+  temp: false
+  alt: "Line drawings of a tree, gusts of wind and a lantern"
+  alt_sr: "Crteži drveta, naleta vetra i fenjera"
+  alt_cyr: "Цртежи дрвета, налета ветра и фењера"
+  alt_hr: "Crteži stabla, naleta vjetra i fenjera"
+  alt_ru: "Рисунки дерева, порывов ветра и фонаря"
