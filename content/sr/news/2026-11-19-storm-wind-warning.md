@@ -24,7 +24,7 @@ Prema prognozi RHMZ-a, u petak će ponovo biti toplo (16–20 °C), a od subote 
 
 ## Na Dunavu i Provali
 
-- **Ne izlazite na vodu** večeras ni u ribolov. Čamce izvucite na obalu ili ih dvostruko vežite, a opremu sklonite.
+- **Ne izlazite na Dunav** večeras ni u ribolov. Čamce na Dunavu izvucite na obalu ili ih dvostruko vežite, a opremu sklonite.
 - Vlasnici vikendica na Provali i uz Dunav: zatvorite i učvrstite sve pre mraka, ne ostajte pod drvećem.
 
 ## Ako nestane struje

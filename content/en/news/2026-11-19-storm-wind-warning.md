@@ -24,7 +24,7 @@ The RHMZ forecast says it turns warm again on Friday (16–20 °C), and from Sat
 
 ## On the Danube and Provala
 
-- **Do not go out on the water** or fishing tonight. Pull boats ashore or double their moorings, and put the gear away.
+- **Do not go out on the Danube** or fishing tonight. Pull boats on the Danube ashore or double their moorings, and put the gear away.
 - Owners of weekend houses at Provala and by the Danube: shut and secure everything before dark, and do not stay under trees.
 
 ## If the power goes
