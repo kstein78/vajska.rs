@@ -2,7 +2,6 @@
 title: 'Crveni meteoalarm za Bačku večeras: olujni i orkanski udari vjetra od 80 do 110 km/h'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
-top: true
 author: kosta
 cover: card-storm-wind
 lead: 'RHMZ Srbije izdao je 19. studenoga hitno upozorenje: večeras će hladna fronta donijeti olujne i orkanske udare zapadnog i sjeverozapadnog vjetra, od 80 do 110 km/h. Bačka, a s njom Vajska i cijela općina Bač, pod crvenim je alarmom, najvišom razinom. Evo kako do večeri pripremiti kuću, dvorište i čamac.'

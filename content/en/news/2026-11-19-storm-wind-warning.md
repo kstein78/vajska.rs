@@ -2,7 +2,6 @@
 title: 'Red weather alert for Bačka tonight: storm and hurricane-force gusts of 80–110 km/h'
 date: '2026-11-19T13:20:00+01:00'
 feed: local
-top: true
 author: kosta
 cover: card-storm-wind
 lead: 'The RHMZ issued an urgent warning on 19 November: this evening a cold front will bring storm and hurricane-force gusts of westerly and north-westerly wind, 80 to 110 km/h. Bačka, and with it Vajska and the whole of Bač municipality, is under the red alert, the highest level. Here is how to get your house, yard and boat ready before evening.'
